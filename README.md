@@ -1,8 +1,18 @@
-<h1 align="center">Ashish Khattry | 🦀</h1>
+<h1 align="center">⚔️ Ashish Khattry | Rust Architect ⚔️</h1>
+
+<!-- BEGIN: NUCLEAR BADGES (Build Fails Nahi Hone Denge) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Rustc-1.80+-orange?logo=rust&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Memory_Safety-100%25-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Panics-0_Tolerated-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsafe_Code-Forbidden-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Project_Phoenix_Active-<COLOR>.svg?style=for-the-badge&logo=github" />
+</p>
+<!-- END: NUCLEAR BADGES -->
 
 <p align="center">
   <a href="https://github.com/ashish-khattry">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Rust+Backend+Architect;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F74C00&center=true&vCenter=true&width=700&lines=Rust+Backend+Architect;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,26 +20,33 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💡 Who am I?</h3>
+      <h3 align="center">💀 Who am I?</h3>
       <br>
       <blockquote>
         "Architecting systems through Pure Logic, Memory Safety, and Iron Discipline."
       </blockquote>
-      <p>I am a Rust Backend Developer. My focus is exclusively on building highly concurrent, zero-panic architectures for Web3, Cloud, and scalable Start-ups.</p>
+      <p>I am a <b>Rust Backend Developer</b>. My focus is exclusively on building highly concurrent, <b>zero-panic</b> architectures for Web3, Cloud, and scalable Start-ups.</p>
       <p><b>Foundation:</b> C, C++, Java.</p>
       <p><b>Goal:</b> Building 100% Crash-Proof Enterprise Servers.</p>
+      <p><b>Motto:</b> If it compiles, it ships. If it panics, I rewrite it.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ system_boot.rs</h3>
 <pre lang="rust"><code>
+#![forbid(unsafe_code)] // No exceptions.
+
 fn main() {
     let ashish = Developer {
         role: "Rust Backend Architect",
         core_weapon: "Rust 🦀",
         operating_status: "Strict Engineering Discipline",
         error_handling: "Zero Panics Tolerated",
+        hackerman_mode: true,
     };
-    ashish.deploy_to_production();
+    
+    // unwrap() is for the weak. We use expect() with style.
+    ashish.deploy_to_production()
+        .expect("Deployment failed. Initiating rollback.");
 }
 </code></pre>
     </td>
@@ -42,18 +59,18 @@ fn main() {
     <td width="50%" valign="top">
       <h4 align="center">🏗️ Currently Building (Phase 03)</h4>
       <ul>
-        <li><b>CLI Search Tool:</b> Low-level OS file searching.</li>
-        <li><b>FastAPI Web Server:</b> URL Shortener with DB.</li>
-        <li><b>Network Chat Server:</b> Concurrent network system.</li>
+        <li><b>CLI Search Tool:</b> Low-level OS file searching (No dependencies, pure std).</li>
+        <li><b>Axum Web Server:</b> URL Shortener with PostgreSQL (High concurrency).</li>
+        <li><b>Network Chat Server:</b> Concurrent system using Tokio & strict Borrowing.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">🌱 Deep Learning Focus</h4>
       <ul>
-        <li>Advanced Rust Traits & Generics</li>
-        <li>Complex Lifetime Annotations</li>
-        <li>PostgreSQL & Database APIs</li>
-        <li>Web3 Core Infrastructure</li>
+        <li>Advanced Rust Traits & Generic Associated Types (GATs)</li>
+        <li>Complex Lifetime Annotations (Variance, Subtyping)</li>
+        <li>SQLx & Database APIs (Compile-time checked queries)</li>
+        <li>Web3 Core Infrastructure (Alloy/ethers-rs)</li>
       </ul>
     </td>
   </tr>
@@ -85,12 +102,12 @@ fn main() {
       <td>Master repository for the Official Rust Book. 100% memory-safe binary projects using exhaustive match flows.</td>
     </tr>
     <tr>
-      <td><b>cli_search_tool</b> <i>(Finish)</i></td>
+      <td><b><a href="https://github.com/ashish-khattry/cli_search_tool">cli_search_tool</a></b> <i>(Active)</i></td>
       <td>Rust 🦀</td>
       <td>High-speed custom file searching interacting directly with the OS. Handled via Result and Option.</td>
     </tr>
     <tr>
-      <td><b>network_chat_server</b> <i>(Finish)</i></td>
+      <td><b><a href="https://github.com/ashish-khattry/network_chat_server">network_chat_server</a></b> <i>(Active)</i></td>
       <td>Rust 🦀</td>
       <td>Highly concurrent server handling multiple users via strict Ownership & Borrowing mechanics.</td>
     </tr>
@@ -100,23 +117,23 @@ fn main() {
 <!-- MARK 5: ADVANCED GITHUB METRICS DASHBOARD -->
 <h3 align="center">📊 GitHub Metrics & Stats Dashboard</h3>
 
-<!-- 1. Streak Stats (Top Arrow) -->
+<!-- 1. Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=false" width="80%" alt="GitHub Streak" />
 </p>
 
-<!-- 2. Profile Summary Area Chart (Second Arrow) -->
+<!-- 2. Profile Summary Area Chart -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-khattry&theme=tokyonight" width="80%" alt="Profile Details" />
 </p>
 
-<!-- 3. Top Languages & Commits per hour (Third Arrow) - Side by Side -->
+<!-- 3. Top Languages & Commits per hour -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish-khattry&theme=tokyonight" width="39%" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashish-khattry&theme=tokyonight" width="39%" alt="Productive Time" />
 </p>
 
-<!-- 4. Contribution Activity Line Graph (Fourth Arrow) -->
+<!-- 4. Contribution Activity Line Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=false&area=true" width="80%" alt="Activity Graph" />
 </p>
@@ -124,10 +141,10 @@ fn main() {
 <!-- MARK 6: Quote of the Day / Philosophy -->
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=+%22Large+servers+are+just+100+small+logics+combined.%22;+%22Consistency+beats+intensity.%22" alt="Philosophy Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=00FF00&center=true&vCenter=true&width=900&lines=+%22Large+servers+are+just+100+small+logics+combined.%22;+%22Consistency+beats+intensity.%22;+%22Fear+the+person+who+has+the+discipline+to+write+100%25+test+coverage.%22" alt="Philosophy Quote" />
 </p>
 
-<!-- MARK 7: WATCH MY CONTRIBUTIONS GET EATEN (SNAKE ANIMATION) -->
+<!-- MARK 7: SNAKE ANIMATION (Requires GitHub Action Setup) -->
 <h3 align="center">🐍 Watch My Contributions Get Eaten</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -141,24 +158,26 @@ fn main() {
       <b>🔥 Core Philosophy</b><br><br>
       💻 Deep Work State<br>
       🦀 Rust Core Architecture<br>
-      ⚙️ Zero Panic Engineering
+      ⚙️ Zero Panic Engineering<br>
+      ❌ `unwrap()` is a War Crime
     </td>
     <td width="33%" align="center" valign="top">
       <b>🚀 Milestones & Stats</b><br><br>
       🏆 Advanced System Design<br>
       📈 100+ Commits (Aug 2026)<br>
-      🧠 100% Crash-Proof Code
+      🧠 100% Crash-Proof Code<br>
+      ✅ 100% Test Coverage (Target)
     </td>
     <td width="33%" align="center" valign="top">
       <b>🔗 Connect & Collaborate</b><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/ashish-khattry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
+      <a href="mailto:ashish.khattry@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
-<!-- MARK 9: THE QUOTE CARD -->
+<!-- MARK 9: THE KILLER QUOTE CARD -->
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=F74C00&center=true&vCenter=true&width=800&height=100&lines=%22I'm+not+a+great+programmer;%22;+%22I'm+just+a+good+programmer+with+great+habits.%22+-+Kent+Beck" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=F74C00&center=true&vCenter=true&width=900&height=100&lines=%22I'm+not+a+great+programmer;%22;+%22I'm+just+a+good+programmer+with+great+habits.%22+-+Kent+Beck;+" />
 </p>
