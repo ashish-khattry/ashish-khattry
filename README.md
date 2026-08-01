@@ -97,16 +97,29 @@ fn main() {
   </tbody>
 </table>
 
-<!-- MARK 5: The Giant Analytics Dashboard (Dark Mode) -->
-<h3 align="center">📊 Real-Time GitHub Analytics</h3>
+<!-- MARK 5: ADVANCED GITHUB METRICS DASHBOARD -->
+<h3 align="center">📊 GitHub Metrics & Stats Dashboard</h3>
+
+<!-- 1. Streak Stats (Top Arrow) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-khattry&layout=donut&theme=tokyonight&hide_border=false" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=false" width="99%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=false" width="80%" alt="GitHub Streak" />
 </p>
 
+<!-- 2. Profile Summary Area Chart (Second Arrow) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-khattry&theme=tokyonight" width="80%" alt="Profile Details" />
+</p>
+
+<!-- 3. Top Languages & Commits per hour (Third Arrow) - Side by Side -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish-khattry&theme=tokyonight" width="39%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashish-khattry&theme=tokyonight" width="39%" alt="Productive Time" />
+</p>
+
+<!-- 4. Contribution Activity Line Graph (Fourth Arrow) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=false&area=true" width="80%" alt="Activity Graph" />
+</p>
 <!-- MARK 6: Quote of the Day / Philosophy -->
 <br>
 <p align="center">
