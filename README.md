@@ -15,7 +15,7 @@
       <blockquote>
         "Architecting systems through Pure Logic, Memory Safety, and Iron Discipline."
       </blockquote>
-      <p>I am a Rust Backend Developer strictly avoiding mass-recruiter tech stacks. My focus is exclusively on building highly concurrent, zero-panic architectures for Web3, Cloud, and scalable Start-ups.</p>
+      <p>I am a Rust Backend Developer. My focus is exclusively on building highly concurrent, zero-panic architectures for Web3, Cloud, and scalable Start-ups.</p>
       <p><b>Foundation:</b> C, C++, Java.</p>
       <p><b>Goal:</b> Building 100% Crash-Proof Enterprise Servers.</p>
     </td>
