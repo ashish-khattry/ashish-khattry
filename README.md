@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/Memory_Safety-100%25-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Panics-0_Tolerated-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unsafe_Code-Forbidden-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Project_Phoenix_Active-<COLOR>.svg?style=for-the-badge&logo=github" />
+  <!-- YAHAN <COLOR> KO BLUE KIYA GAYA HAI TAAKI BADGE NA TOOTE -->
+  <img src="https://img.shields.io/badge/Status-Project_Phoenix_Active-blue.svg?style=for-the-badge&logo=github" />
 </p>
 <!-- END: NUCLEAR BADGES -->
 
@@ -41,7 +42,7 @@ fn main() {
         core_weapon: "Rust 🦀",
         operating_status: "Strict Engineering Discipline",
         error_handling: "Zero Panics Tolerated",
-        hackerman_mode: true,
+        machine_mode: true,
     };
     
     // unwrap() is for the weak. We use expect() with style.
@@ -85,7 +86,7 @@ fn main() {
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode&theme=dark" />
 </p>
 
-<!-- MARK 4: Detailed Projects Table (🔽 SAHI LINKS YAHAN DAALE HAIN) -->
+<!-- MARK 4: Detailed Projects Table -->
 <h3 align="center">📂 Project Phoenix Pipeline</h3>
 <table width="100%">
   <thead>
@@ -168,10 +169,10 @@ fn main() {
       🧠 100% Crash-Proof Code<br>
       ✅ 100% Test Coverage (Target)
     </td>
-    <td width="33%" align="center" valign="top">
+   <td width="33%" align="center" valign="top">
       <b>🔗 Connect & Collaborate</b><br><br>
-      <a href="https://linkedin.com/in/ashish-khattry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
-      <a href="mailto:ashish.khattry@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
+      <a href="mailto:ashishkhattry7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
