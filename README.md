@@ -22,7 +22,7 @@
 fn main() {
     let ashish = Developer {
         role: "Rust Backend Developer",
-        foundation: "Polytechnic IT Topper ",
+        foundation: "C,C++,Java",
         architecture: vec!["Memory-Safe Servers", "Custom CLIs", "REST APIs"],
         current_status: "Executing Project Phoenix Pipeline",
         availability: "Ready for Hardcore Engineering (BLR/Noida)",
