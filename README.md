@@ -1,4 +1,4 @@
-<h1 align="center">Ashish Khattry | 🦀 | </h1>
+<h1 align="center">Ashish Khattry | 🦀</h1>
 
 <p align="center">
   <a href="https://github.com/ashish-khattry">
@@ -16,7 +16,7 @@
         "Architecting systems through Pure Logic, Memory Safety, and Iron Discipline."
       </blockquote>
       <p>I am a Rust Backend Developer strictly avoiding mass-recruiter tech stacks. My focus is exclusively on building highly concurrent, zero-panic architectures for Web3, Cloud, and scalable Start-ups.</p>
-      <p><b>Foundation:</b> C,C++, Java .</p>
+      <p><b>Foundation:</b> C, C++, Java.</p>
       <p><b>Goal:</b> Building 100% Crash-Proof Enterprise Servers.</p>
     </td>
     <td width="50%" valign="top">
@@ -26,7 +26,7 @@ fn main() {
     let ashish = Developer {
         role: "Rust Backend Architect",
         core_weapon: "Rust 🦀",
-        operating_status: "Machine Mindset",
+        operating_status: "Strict Engineering Discipline",
         error_handling: "Zero Panics Tolerated",
     };
     ashish.deploy_to_production();
@@ -120,11 +120,13 @@ fn main() {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=false&area=true" width="80%" alt="Activity Graph" />
 </p>
+
 <!-- MARK 6: Quote of the Day / Philosophy -->
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=+%22Large+servers+are+just+100+small+logics+combined.%22;+%22Consistency+beats+intensity.%22" alt="Philosophy Quote" />
 </p>
+
 <!-- MARK 7: WATCH MY CONTRIBUTIONS GET EATEN (SNAKE ANIMATION) -->
 <h3 align="center">🐍 Watch My Contributions Get Eaten</h3>
 <p align="center">
@@ -136,14 +138,14 @@ fn main() {
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <b>🔥 The Machine Mindset</b><br><br>
-      💻 150+ Days Monk Mode<br>
+      <b>🔥 Core Philosophy</b><br><br>
+      💻 Deep Work State<br>
       🦀 Rust Core Architecture<br>
       ⚙️ Zero Panic Engineering
     </td>
     <td width="33%" align="center" valign="top">
       <b>🚀 Milestones & Stats</b><br><br>
-      🏆 2018 IT Topper (816 Marks)<br>
+      🏆 Advanced System Design<br>
       📈 100+ Commits (Aug 2026)<br>
       🧠 100% Crash-Proof Code
     </td>
