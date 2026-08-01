@@ -14,7 +14,7 @@
 
   <img src="https://img.shields.io/badge/Unsafe_Code-Forbidden-critical?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/Status-Project_Phoenix_Active-<blue>.svg?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Project_Phoenix_Active-<COLOR>.svg?style=for-the-badge&logo=github" />
 
 </p>
 
