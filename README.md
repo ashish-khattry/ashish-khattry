@@ -85,7 +85,7 @@ fn main() {
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode&theme=dark" />
 </p>
 
-<!-- MARK 4: Detailed Projects Table -->
+<!-- MARK 4: Detailed Projects Table (🔽 SAHI LINKS YAHAN DAALE HAIN) -->
 <h3 align="center">📂 Project Phoenix Pipeline</h3>
 <table width="100%">
   <thead>
@@ -102,12 +102,12 @@ fn main() {
       <td>Master repository for the Official Rust Book. 100% memory-safe binary projects using exhaustive match flows.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/ashish-khattry/cli_search_tool">cli_search_tool</a></b> <i>(Active)</i></td>
+      <td><b><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search">wiki_search</a></b> <i>(Active)</i></td>
       <td>Rust 🦀</td>
       <td>High-speed custom file searching interacting directly with the OS. Handled via Result and Option.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/ashish-khattry/network_chat_server">network_chat_server</a></b> <i>(Active)</i></td>
+      <td><b><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/basic_web_server">basic_web_server</a></b> <i>(Active)</i></td>
       <td>Rust 🦀</td>
       <td>Highly concurrent server handling multiple users via strict Ownership & Borrowing mechanics.</td>
     </tr>
@@ -179,5 +179,5 @@ fn main() {
 <!-- MARK 9: THE KILLER QUOTE CARD -->
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=F74C00&center=true&vCenter=true&width=900&height=100&lines=%22I'm+not+a+great+programmer;%22;+%22I'm+just+a+good+programmer+with+great+habits.%22+-+Kent+Beck;+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=F74C00&center=true&vCenter=true&width=900&height=100&lines=%22I'm+not+a+great+programmer;%22;+%22I'm+just+a+good+programmer+with+great+habits.%22+-+Kent+Beck;" />
 </p>
