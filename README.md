@@ -125,3 +125,38 @@ fn main() {
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=+%22Large+servers+are+just+100+small+logics+combined.%22;+%22Consistency+beats+intensity.%22" alt="Philosophy Quote" />
 </p>
+<!-- MARK 7: WATCH MY CONTRIBUTIONS GET EATEN (SNAKE ANIMATION) -->
+<h3 align="center">🐍 Watch My Contributions Get Eaten</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<!-- MARK 8: CONTENT & COMMUNITY (3-COLUMN LAYOUT) -->
+<h3 align="center">🌐 Content & Community</h3>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b>🔥 The Machine Mindset</b><br><br>
+      💻 150+ Days Monk Mode<br>
+      🦀 Rust Core Architecture<br>
+      ⚙️ Zero Panic Engineering
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>🚀 Milestones & Stats</b><br><br>
+      🏆 2018 IT Topper (816 Marks)<br>
+      📈 100+ Commits (Aug 2026)<br>
+      🧠 100% Crash-Proof Code
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>🔗 Connect & Collaborate</b><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<!-- MARK 9: THE QUOTE CARD -->
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=F74C00&center=true&vCenter=true&width=800&height=100&lines=%22I'm+not+a+great+programmer;%22;+%22I'm+just+a+good+programmer+with+great+habits.%22+-+Kent+Beck" alt="Quote" />
+</p>
