@@ -1,4 +1,4 @@
-<h1 align="center">Ashish Khattry | The Machine Mindset 🦀</h1>
+<h1 align="center">Ashish Khattry 🦀</h1>
 
 <!-- डायनामिक टाइपिंग एनीमेशन (ये अपने आप टाइप होगा) -->
 <p align="center">
@@ -22,7 +22,7 @@
 fn main() {
     let ashish = Developer {
         role: "Rust Backend Developer",
-        foundation: "2018 Polytechnic IT Topper (816 Marks)",
+        foundation: "Polytechnic IT Topper ",
         architecture: vec!["Memory-Safe Servers", "Custom CLIs", "REST APIs"],
         current_status: "Executing Project Phoenix Pipeline",
         availability: "Ready for Hardcore Engineering (BLR/Noida)",
