@@ -40,7 +40,7 @@ fn main() {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🏗️ Currently Building (Phase 01 & 02)</h4>
+      <h4 align="center">🏗️ Currently Building (Phase 03)</h4>
       <ul>
         <li><b>CLI Search Tool:</b> Low-level OS file searching.</li>
         <li><b>FastAPI Web Server:</b> URL Shortener with DB.</li>
@@ -85,12 +85,12 @@ fn main() {
       <td>Master repository for the Official Rust Book. 100% memory-safe binary projects using exhaustive match flows.</td>
     </tr>
     <tr>
-      <td><b>cli_search_tool</b> <i>(Upcoming)</i></td>
+      <td><b>cli_search_tool</b> <i>(Finish)</i></td>
       <td>Rust 🦀</td>
       <td>High-speed custom file searching interacting directly with the OS. Handled via Result and Option.</td>
     </tr>
     <tr>
-      <td><b>network_chat_server</b> <i>(Upcoming)</i></td>
+      <td><b>network_chat_server</b> <i>(Finish)</i></td>
       <td>Rust 🦀</td>
       <td>Highly concurrent server handling multiple users via strict Ownership & Borrowing mechanics.</td>
     </tr>
