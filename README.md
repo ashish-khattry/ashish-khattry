@@ -37,9 +37,8 @@ Focus: Web3, Cloud Infrastructure, and Zero-Panic Architectures.
 
 ---
 
-### 📬 Connect (For Opportunities)
+### 📬 Connect
 
-- **LinkedIn:** [ashish-khattry](#) *(Link daal de yahan pe)*
 - **Email:** ashishkhattry7@gmail.com
 - **GitHub:** [ashish-khattry](https://github.com/ashish-khattry)
 
