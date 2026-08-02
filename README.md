@@ -204,13 +204,9 @@ fn main() {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 
-<!-- 3. Contribution Activity Line Graph (Saari Pehle jaisi hi hai, Vercel wali, agar na chale toh ise bhi hata dena) -->
+<!-- 3. Contribution Activity Line Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Activity Graph" />
-</p>
-<!-- 4. Contribution Activity Line Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=false&area=true" width="80%" alt="Activity Graph" />
 </p>
 
 <!-- ============================================================ -->
