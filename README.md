@@ -3,6 +3,7 @@
 ║  PROJECT PHOENIX - BOOT SEQUENCE INITIATED                  ║
 ║  AUTHOR: ASHISH KHATTTRY                                   ║
 ║  STATUS: MEMORY-SAFE & ZERO-PANIC                         ║
+║  OS: WINDOWS 11 PRO (x86_64-pc-windows-msvc)             ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -34,11 +35,11 @@ $ whoami
 $ rustc --version
 > rustc 1.80.0 (051478957 2024-07-21)
 
-$ cargo build --release --target=x86_64-unknown-linux-gnu
+$ cargo build --release --target=x86_64-pc-windows-msvc
 > Compiling project_phoenix v0.1.0
 >     Finished `release` profile [optimized] target(s) in 0.47s
 
-$ ./target/release/ashish
+$ .\target\release\ashish.exe
 > 🔥 Boot Sequence Complete.
 > 🦀 Zero Panics Loaded.
 > 🚀 Ready for Production Deployment.
@@ -140,7 +141,7 @@ fn main() {
   <b>Core Weapons:</b><br>
   <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" /><br><br>
   <b>Infrastructure & OS:</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode&theme=dark" />
 </p>
 
 <!-- ============================================================ -->
