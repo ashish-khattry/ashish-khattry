@@ -189,26 +189,25 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 8: ADVANCED GITHUB METRICS DASHBOARD                   -->
+<!-- MARK 8: ADVANCED GITHUB METRICS DASHBOARD (RELIABLE STATS)   -->
 <!-- ============================================================ -->
 <h3 align="center">📊 GitHub Metrics & Stats Dashboard</h3>
 
-<!-- 1. Streak Stats -->
+<!-- 1. GitHub Readme Stats (Overall) - Reliable -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=false" width="80%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<!-- 2. Profile Summary Area Chart -->
+<!-- 2. Top Languages (Compact) - Reliable -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-khattry&theme=tokyonight" width="80%" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
 </p>
 
-<!-- 3. Top Languages & Commits per hour -->
+<!-- 3. Contribution Activity Line Graph (Saari Pehle jaisi hi hai, Vercel wali, agar na chale toh ise bhi hata dena) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish-khattry&theme=tokyonight" width="39%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashish-khattry&theme=tokyonight" width="39%" alt="Productive Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </p>
-
 <!-- 4. Contribution Activity Line Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=false&area=true" width="80%" alt="Activity Graph" />
