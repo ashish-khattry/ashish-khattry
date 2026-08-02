@@ -25,21 +25,21 @@
 <h1 align="center">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</h1>
 
 <!-- ============================================================ -->
-<!-- MARK 0.5: TERMINAL INTRO BLOCK (HACKER STYLE)               -->
+<!-- MARK 0.5: TERMINAL INTRO BLOCK (WINDOWS POWERSHELL STYLE)   -->
 <!-- ============================================================ -->
 <pre align="center">
 <code>
-$ whoami
+PS> whoami
 > ashish-khattry
 
-$ rustc --version
+PS> rustc --version
 > rustc 1.80.0 (051478957 2024-07-21)
 
-$ cargo build --release --target=x86_64-pc-windows-msvc
+PS> cargo build --release --target=x86_64-pc-windows-msvc
 > Compiling project_phoenix v0.1.0
 >     Finished `release` profile [optimized] target(s) in 0.47s
 
-$ .\target\release\ashish.exe
+PS> .\target\release\ashish.exe
 > 🔥 Boot Sequence Complete.
 > 🦀 Zero Panics Loaded.
 > 🚀 Ready for Production Deployment.
