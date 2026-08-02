@@ -11,10 +11,10 @@
 <!-- MARK 0: ASCII ART BANNER (FIGLET STYLE)                      -->
 <!-- ============================================================ -->
 <pre align="center">
-  ▄▄▄    ██░ ██  ██▓  ██████  ██░ ██ ██▓
- ▒████▄  ▓██░ ██▒▓██▒▒██    ▒ ▓██░ ██▒▓██▒
- ▒██  ▀█▄▒██▀▀██░▒██▒░ ▓██▄   ▒██▀▀██░▒██▒
- ░██▄▄▄▄██░▓█ ░██░██░  ▒   ██▒░▓█ ░██ ░██░
+  ▄▄▄       ██░ ██  ██▓  ██████  ██░ ██ ██▓
+ ▒████▄    ▓██░ ██▒▓██▒▒██    ▒ ▓██░ ██▒▓██▒
+ ▒██  ▀█▄  ▒██▀▀██░▒██▒░ ▓██▄   ▒██▀▀██░▒██▒
+ ░██▄▄▄▄██ ░▓█ ░██ ░██░  ▒   ██▒░▓█ ░██ ░██░
   ▓█   ▓██▒░▓█▒░██▓░██░▒██████▒▒░▓█▒░██▓░██░
   ▒▒   ▓▒█░ ▒ ░░▒░▒░▓  ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░▓  
    ▒   ▒▒ ░ ▒ ░▒░ ░ ▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░
@@ -22,29 +22,12 @@
        ░  ░ ░  ░  ░ ░        ░   ░  ░  ░ ░  
 </pre>
 
-<h1 align="center">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</h1>
-
 <!-- ============================================================ -->
-<!-- MARK 0.5: TERMINAL INTRO BLOCK (WINDOWS POWERSHELL STYLE)   -->
+<!-- MARK 0.5: TERMINAL INTRO BLOCK (ANIMATED BOOT SEQUENCE)     -->
 <!-- ============================================================ -->
-<pre align="center">
-<code>
-PS> whoami
-> ashish-khattry
-
-PS> rustc --version
-> rustc 1.80.0 (051478957 2024-07-21)
-
-PS> cargo build --release --target=x86_64-pc-windows-msvc
-> Compiling project_phoenix v0.1.0
->     Finished `release` profile [optimized] target(s) in 0.47s
-
-PS> .\target\release\ashish.exe
-> 🔥 Boot Sequence Complete.
-> 🦀 Zero Panics Loaded.
-> 🚀 Ready for Production Deployment.
-</code>
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00FF00&center=true&vCenter=true&width=700&height=160&lines=PS>+whoami;>+ashish-khattry;PS>+rustc+--version;>+rustc+1.80.0+(051478957+2024-07-21);PS>+cargo+build+--release+--target=x86_64-pc-windows-msvc;>+Finished+`release`+profile+[optimized]+target(s)+in+0.47s;PS>+.\target\release\ashish.exe;>+🔥+Boot+Sequence+Complete.;>+🦀+Zero+Panics+Loaded.;>+🚀+Ready+for+Production+Deployment." alt="Terminal Boot Animation" />
+</p>
 
 <!-- ============================================================ -->
 <!-- MARK 1: NUCLEAR BADGES (LIVE + DYNAMIC)                     -->
@@ -59,12 +42,10 @@ PS> .\target\release\ashish.exe
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 2: TYPING SVG (DYNAMIC HEADLINE)                       -->
+<!-- MARK 2: MAIN HEADLINE ANIMATION                              -->
 <!-- ============================================================ -->
 <p align="center">
-  <a href="https://github.com/ashish-khattry">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F74C00&center=true&vCenter=true&width=800&lines=Rust+Backend+Architect;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix;I+AM+THE+BORROW+CHECKER" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F74C00&center=true&vCenter=true&width=800&lines=⚡+ASHISH+KHATTTRY+%7C+RUST+ARCHITECT+⚡;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix;I+AM+THE+BORROW+CHECKER" alt="Main Headline Animation" />
 </p>
 
 <!-- ============================================================ -->
@@ -134,23 +115,30 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 5: TECH STACK (ANIMATED HEADER + STATIC ICONS)         -->
+<!-- MARK 5: TECH STACK (FULLY ANIMATED ARSENAL HEADERS)         -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=💻+Technical+Arsenal;⚙️+Core+Weapons+Loaded;🚀+Ready+for+Deployment" alt="Tech Arsenal Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=💻+TECHNICAL+ARSENAL;⚙️+Core+Weapons+Loaded;🛡️+Infrastructure+Ready" alt="Tech Arsenal Animation" />
 </p>
 
 <p align="center">
-  <b>Core Weapons:</b><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FFA500&center=true&vCenter=true&width=400&lines=🔫+Core+Weapons" alt="Core Weapons Headline" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" /><br><br>
-  <b>Infrastructure & OS:</b><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=⚙️+Infrastructure+%26+OS+(Windows+11+Pro)" alt="Infra Headline" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode&theme=dark" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 6: WAR ROOM DASHBOARD (MISSION CONTROL)                -->
+<!-- MARK 6: WAR ROOM DASHBOARD (ANIMATED HEADLINE)              -->
 <!-- ============================================================ -->
-<h3 align="center">🎯 Mission Control Dashboard</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=🎯+MISSION+CONTROL+DASHBOARD;🚀+Systems+Nominal;🛡️+Defense+Active" alt="Mission Control Animation" />
+</p>
+
 <table width="100%">
   <tr>
     <td width="25%" align="center"><b>🛡️ Memory Safety</b><br>██████████████████ 100%</td>
@@ -161,9 +149,12 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 7: PROJECT PIPELINE (CLICKABLE TABLE)                  -->
+<!-- MARK 7: PROJECT PIPELINE (ANIMATED HEADLINE)                -->
 <!-- ============================================================ -->
-<h3 align="center">📂 Project Phoenix Pipeline</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=📂+PROJECT+PHOENIX+PIPELINE;🔨+Active+Development;🛠️+Memory-Safe+Binaries" alt="Project Pipeline Animation" />
+</p>
+
 <table width="100%">
   <thead>
     <tr>
@@ -192,9 +183,11 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 8: ADVANCED GITHUB METRICS DASHBOARD (CACHE BUSTER FIX) -->
+<!-- MARK 8: GITHUB STATS DASHBOARD (ANIMATED HEADLINE)          -->
 <!-- ============================================================ -->
-<h3 align="center">📊 GitHub Metrics & Stats Dashboard</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=📊+GITHUB+METRICS+%26+STATS;📈+Tracking+Consistency;🔥+Discipline+Captured" alt="Stats Dashboard Animation" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Stats" />
@@ -218,15 +211,15 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 10: THE DISCIPLINE MATRIX (CONTRIBUTION GRAPH)         -->
+<!-- MARK 10: THE DISCIPLINE MATRIX (SNAKE ANIMATION)            -->
 <!-- ============================================================ -->
-<h3 align="center">🟩 The Green Graph of Discipline</h3>
+<h3 align="center">🐍 The Green Graph of Discipline</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Discipline Graph" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 11: CONTENT & Community (3-COLUMN LAYOUT)              -->
+<!-- MARK 11: CONTENT & COMMUNITY (3-COLUMN LAYOUT)              -->
 <!-- ============================================================ -->
 <h3 align="center">🌐 Content & Community</h3>
 <table width="100%">
