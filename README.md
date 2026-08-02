@@ -134,9 +134,12 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 5: TECH STACK (CATEGORIZED ICONS)                      -->
+<!-- MARK 5: TECH STACK (ANIMATED HEADER + STATIC ICONS)         -->
 <!-- ============================================================ -->
-<h3 align="center">💻 Technical Arsenal</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=💻+Technical+Arsenal;⚙️+Core+Weapons+Loaded;🚀+Ready+for+Deployment" alt="Tech Arsenal Animation" />
+</p>
+
 <p align="center">
   <b>Core Weapons:</b><br>
   <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" /><br><br>
@@ -223,7 +226,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 11: CONTENT & COMMUNITY (3-COLUMN LAYOUT)              -->
+<!-- MARK 11: CONTENT & Community (3-COLUMN LAYOUT)              -->
 <!-- ============================================================ -->
 <h3 align="center">🌐 Content & Community</h3>
 <table width="100%">
