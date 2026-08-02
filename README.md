@@ -189,22 +189,19 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 8: ADVANCED GITHUB METRICS DASHBOARD (BULLETPROOF)     -->
+<!-- MARK 8: ADVANCED GITHUB METRICS DASHBOARD (CACHE BUSTER FIX) -->
 <!-- ============================================================ -->
 <h3 align="center">📊 GitHub Metrics & Stats Dashboard</h3>
 
-<!-- 1. GitHub Readme Stats (Overall) - Raw URL variables -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<!-- 2. Top Languages (Compact) - Raw URL variables -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=1" width="60%" alt="Top Languages" />
 </p>
 
-<!-- 3. Contribution Activity Line Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </p>
