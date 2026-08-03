@@ -8,7 +8,7 @@
 -->
 
 <!-- ============================================================ -->
-<!-- MARK 0: ASCII ART BANNER                                      -->
+<!-- ASCII ART BANNER                                              -->
 <!-- ============================================================ -->
 <pre align="center">
   ▄▄▄       ██░ ██  ██▓  ██████  ██░ ██ ██▓
@@ -25,7 +25,7 @@
 <h1 align="center">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</h1>
 
 <!-- ============================================================ -->
-<!-- MARK 0.5: STATIC TERMINAL BLOCK                               -->
+<!-- STATIC TERMINAL BLOCK                                         -->
 <!-- ============================================================ -->
 <pre align="center">
 <code>
@@ -47,7 +47,7 @@ PS> .\target\release\ashish.exe
 </pre>
 
 <!-- ============================================================ -->
-<!-- MARK 1: BADGES                                               -->
+<!-- BADGES                                                        -->
 <!-- ============================================================ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Rustc-1.80+-orange?logo=rust&style=for-the-badge" />
@@ -59,7 +59,7 @@ PS> .\target\release\ashish.exe
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 2: ABOUT ME + CODE                                      -->
+<!-- ABOUT ME + CODE                                               -->
 <!-- ============================================================ -->
 <table width="100%">
   <tr>
@@ -100,7 +100,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 3: BUILDING & LEARNING                                  -->
+<!-- BUILDING & LEARNING                                           -->
 <!-- ============================================================ -->
 <table width="100%">
   <tr>
@@ -125,7 +125,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 4: TECH STACK                                           -->
+<!-- TECH STACK                                                    -->
 <!-- ============================================================ -->
 <h3 align="center">💻 Technical Arsenal</h3>
 <p align="center">
@@ -136,7 +136,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 5: MISSION CONTROL                                      -->
+<!-- MISSION CONTROL                                               -->
 <!-- ============================================================ -->
 <h3 align="center">🎯 Mission Control Dashboard</h3>
 <table width="100%">
@@ -149,7 +149,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 6: PROJECT PIPELINE                                     -->
+<!-- PROJECT PIPELINE                                              -->
 <!-- ============================================================ -->
 <h3 align="center">📂 Project Phoenix Pipeline</h3>
 <table width="100%">
@@ -180,23 +180,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 7: GITHUB STATS (FIXED - NO ACTIVITY GRAPH)            -->
-<!-- ============================================================ -->
-<h3 align="center">📊 GitHub Metrics</h3>
-
-<!-- Stats + Streak (Lightweight & Stable) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true&v=3" width="48%" alt="Streak" />
-</p>
-
-<!-- Top Languages (Compact & Clean) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=3" width="60%" alt="Top Languages" />
-</p>
-
-<!-- ============================================================ -->
-<!-- MARK 8: PHILOSOPHY                                           -->
+<!-- PHILOSOPHY                                                    -->
 <!-- ============================================================ -->
 <br>
 <p align="center">
@@ -206,7 +190,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 9: SNAKE ANIMATION (REPLACED THE GLITCHY GRAPH)        -->
+<!-- SNAKE ANIMATION                                               -->
 <!-- ============================================================ -->
 <h3 align="center">🐍 The Green Graph of Discipline</h3>
 <p align="center">
@@ -214,7 +198,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 10: CONNECT                                             -->
+<!-- CONNECT                                                       -->
 <!-- ============================================================ -->
 <h3 align="center">🌐 Connect</h3>
 <p align="center">
@@ -224,7 +208,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 11: FOOTER                                              -->
+<!-- FOOTER                                                        -->
 <!-- ============================================================ -->
 <p align="center">
   <b>🛡️ PROJECT PHOENIX | BOOT SEQUENCE COMPLETE | 100% MEMORY SAFE 🛡️</b>
