@@ -8,7 +8,7 @@
 -->
 
 <!-- ============================================================ -->
-<!-- MARK 0: ASCII ART BANNER (FIGLET STYLE)                      -->
+<!-- MARK 0: ASCII ART BANNER                                      -->
 <!-- ============================================================ -->
 <pre align="center">
   ▄▄▄       ██░ ██  ██▓  ██████  ██░ ██ ██▓
@@ -23,14 +23,14 @@
 </pre>
 
 <!-- ============================================================ -->
-<!-- MARK 0.5: TERMINAL INTRO BLOCK (ANIMATED BOOT SEQUENCE)     -->
+<!-- MARK 0.5: TERMINAL INTRO (ONLY 1st ANIMATION)              -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00FF00&center=true&vCenter=true&width=700&height=160&lines=PS%3E+whoami;%3E+ashish-khattry;PS%3E+rustc+--version;%3E+rustc+1.80.0+(051478957+2024-07-21);PS%3E+cargo+build+--release+--target=x86_64-pc-windows-msvc;%3E+Finished+%60release%60+profile+%5Boptimized%5D+target(s)+in+0.47s;PS%3E+.%5Ctarget%5Crelease%5Cashish.exe;%3E+🔥+Boot+Sequence+Complete.;%3E+🦀+Zero+Panics+Loaded.;%3E+🚀+Ready+for+Production+Deployment.&t=1" alt="Terminal Boot Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00FF00&center=true&vCenter=true&width=700&height=160&lines=PS%3E+whoami;%3E+ashish-khattry;PS%3E+rustc+--version;%3E+rustc+1.80.0+(051478957+2024-07-21);PS%3E+cargo+build+--release+--target=x86_64-pc-windows-msvc;%3E+Finished+%60release%60+profile+%5Boptimized%5D+target(s)+in+0.47s;PS%3E+.%5Ctarget%5Crelease%5Cashish.exe;%3E+🔥+Boot+Sequence+Complete.;%3E+🦀+Zero+Panics+Loaded.;%3E+🚀+Ready+for+Production+Deployment." alt="Terminal Boot" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 1: NUCLEAR BADGES (LIVE + DYNAMIC)                     -->
+<!-- MARK 1: BADGES                                               -->
 <!-- ============================================================ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Rustc-1.80+-orange?logo=rust&style=for-the-badge" />
@@ -42,14 +42,14 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 2: MAIN HEADLINE ANIMATION                              -->
+<!-- MARK 2: MAIN HEADLINE (ONLY 2nd ANIMATION)                 -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F74C00&center=true&vCenter=true&width=800&lines=⚡+ASHISH+KHATTTRY+%7C+RUST+ARCHITECT+⚡;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix;I+AM+THE+BORROW+CHECKER&t=2" alt="Main Headline Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F74C00&center=true&vCenter=true&width=800&lines=⚡+ASHISH+KHATTTRY+%7C+RUST+ARCHITECT+⚡;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix;I+AM+THE+BORROW+CHECKER" alt="Main Headline" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 3: TWO COLUMN (WHO AM I + CODE BLOCK)                  -->
+<!-- MARK 3: ABOUT ME + CODE                                      -->
 <!-- ============================================================ -->
 <table width="100%">
   <tr>
@@ -90,7 +90,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 4: CURRENTLY BUILDING & LEARNING (TWO COLUMN CARDS)    -->
+<!-- MARK 4: BUILDING & LEARNING                                  -->
 <!-- ============================================================ -->
 <table width="100%">
   <tr>
@@ -115,30 +115,20 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 5: TECH STACK (FULLY ANIMATED ARSENAL HEADERS)         -->
+<!-- MARK 5: TECH STACK (STATIC HEADERS)                         -->
 <!-- ============================================================ -->
+<h3 align="center">💻 Technical Arsenal</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=💻+TECHNICAL+ARSENAL;⚙️+Core+Weapons+Loaded;🛡️+Infrastructure+Ready&t=3" alt="Tech Arsenal Animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FFA500&center=true&vCenter=true&width=400&lines=🔫+Core+Weapons&t=4" alt="Core Weapons Headline" />
-</p>
-<p align="center">
+  <b>Core Weapons:</b><br>
   <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" /><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00BFFF&center=true&vCenter=true&width=500&lines=⚙️+Infrastructure+%26+OS+(Windows+11+Pro)&t=5" alt="Infra Headline" />
-</p>
-<p align="center">
+  <b>Infrastructure & OS (Windows 11 Pro):</b><br>
   <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode&theme=dark" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 6: WAR ROOM DASHBOARD (ANIMATED HEADLINE)              -->
+<!-- MARK 6: MISSION CONTROL (STATIC)                            -->
 <!-- ============================================================ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=🎯+MISSION+CONTROL+DASHBOARD;🚀+Systems+Nominal;🛡️+Defense+Active&t=6" alt="Mission Control Animation" />
-</p>
-
+<h3 align="center">🎯 Mission Control Dashboard</h3>
 <table width="100%">
   <tr>
     <td width="25%" align="center"><b>🛡️ Memory Safety</b><br>██████████████████ 100%</td>
@@ -149,12 +139,9 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 7: PROJECT PIPELINE (ANIMATED HEADLINE)                -->
+<!-- MARK 7: PROJECT PIPELINE (STATIC)                           -->
 <!-- ============================================================ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=📂+PROJECT+PHOENIX+PIPELINE;🔨+Active+Development;🛠️+Memory-Safe+Binaries&t=7" alt="Project Pipeline Animation" />
-</p>
-
+<h3 align="center">📂 Project Phoenix Pipeline</h3>
 <table width="100%">
   <thead>
     <tr>
@@ -183,82 +170,50 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 8: GITHUB STATS DASHBOARD (ANIMATED HEADLINE)          -->
+<!-- MARK 8: GITHUB STATS (STATIC HEADER)                        -->
 <!-- ============================================================ -->
+<h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=📊+GITHUB+METRICS+%26+STATS;📈+Tracking+Consistency;🔥+Discipline+Captured&t=8" alt="Stats Dashboard Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=2" width="60%" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Graph" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 9: PHILOSOPHY / WAR CRIES (DYNAMIC TYPING QUOTES)      -->
+<!-- MARK 9: PHILOSOPHY (STATIC QUOTES)                          -->
 <!-- ============================================================ -->
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=00FF00&center=true&vCenter=true&width=950&lines=+%22Large+servers+are+just+100+small+logics+combined.%22;+%22Consistency+beats+intensity.%22;+%22Fear+the+person+who+has+the+discipline+to+write+100%25+test+coverage.%22;+%22I+AM+THE+BORROW+CHECKER.%22&t=9" alt="Philosophy Quote" />
+  <b>🔥 "Large servers are just 100 small logics combined."</b><br>
+  <b>🔥 "Consistency beats intensity."</b><br>
+  <b>🔥 "I AM THE BORROW CHECKER."</b>
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 10: THE DISCIPLINE MATRIX (SNAKE ANIMATION)            -->
+<!-- MARK 10: SNAKE ANIMATION                                    -->
 <!-- ============================================================ -->
 <h3 align="center">🐍 The Green Graph of Discipline</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Discipline Graph" />
+  <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 11: CONTENT & COMMUNITY (3-COLUMN LAYOUT)              -->
+<!-- MARK 11: CONNECT                                            -->
 <!-- ============================================================ -->
-<h3 align="center">🌐 Content & Community</h3>
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <b>🔥 Core Philosophy</b><br><br>
-      💻 Deep Work State<br>
-      🦀 Rust Core Architecture<br>
-      ⚙️ Zero Panic Engineering<br>
-      ❌ `unwrap()` is a War Crime<br>
-      🧠 I AM THE BORROW CHECKER
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>🚀 Milestones & Stats</b><br><br>
-      🏆 Advanced System Design<br>
-      📈 100+ Commits (Aug 2026)<br>
-      🧠 100% Crash-Proof Code<br>
-      ✅ 100% Test Coverage (Target)<br>
-      🛡️ Memory Safety: 100%
-    </td>
-   <td width="33%" align="center" valign="top">
-      <b>🔗 Connect & Collaborate</b><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
-      <a href="mailto:ashishkhattry7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br><br>
-      <a href="https://github.com/ashish-khattry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================ -->
-<!-- MARK 12: THE KILLER QUOTE CARD (CINEMATIC ENDING)           -->
-<!-- ============================================================ -->
-<br>
+<h3 align="center">🌐 Connect</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=3000&color=F74C00&center=true&vCenter=true&width=950&height=100&lines=%22I%27m+not+a+great+programmer;%22;+%22I%27m+just+a+good+programmer+with+great+habits.%22+-+Kent+Beck;+%22C%2B%2B+programmers+fear+the+borrow+checker.%22;+%22I+AM+THE+BORROW+CHECKER.%22&t=10" alt="Killer Quote" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashishkhattry7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashish-khattry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <!-- ============================================================ -->
-<!-- FOOTER: SECURE BOOT COMPLETE                                 -->
+<!-- MARK 12: FOOTER                                             -->
 <!-- ============================================================ -->
 <p align="center">
   <b>🛡️ PROJECT PHOENIX | BOOT SEQUENCE COMPLETE | 100% MEMORY SAFE 🛡️</b>
