@@ -25,7 +25,7 @@
 <h1 align="center">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</h1>
 
 <!-- ============================================================ -->
-<!-- MARK 0.5: STATIC TERMINAL BLOCK (NO ANIMATION)               -->
+<!-- MARK 0.5: STATIC TERMINAL BLOCK                               -->
 <!-- ============================================================ -->
 <pre align="center">
 <code>
@@ -180,18 +180,24 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 7: GITHUB STATS                                         -->
+<!-- MARK 7: GITHUB STATS (FIXED - DARK MODE COMPATIBLE)        -->
 <!-- ============================================================ -->
 <h3 align="center">📊 GitHub Metrics</h3>
+
+<!-- Stats + Streak - Added count_private & v=3 for fresh cache -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true&v=3" width="48%" alt="Streak" />
 </p>
+
+<!-- Top Languages - Added v=3 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=2" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=3" width="60%" alt="Top Languages" />
 </p>
+
+<!-- Activity Graph - CHANGED theme to github-dark for perfect dark mode blend -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=github-dark&hide_border=true&area=true&v=3" width="80%" alt="Graph" />
 </p>
 
 <!-- ============================================================ -->
@@ -205,7 +211,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 9: SNAKE ANIMATION (YEH CHALEGA)                       -->
+<!-- MARK 9: SNAKE ANIMATION                                      -->
 <!-- ============================================================ -->
 <h3 align="center">🐍 The Green Graph of Discipline</h3>
 <p align="center">
