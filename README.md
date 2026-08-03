@@ -22,12 +22,29 @@
        ░  ░ ░  ░  ░ ░        ░   ░  ░  ░ ░  
 </pre>
 
+<h1 align="center">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</h1>
+
 <!-- ============================================================ -->
-<!-- MARK 0.5: TERMINAL INTRO (ONLY 1st ANIMATION)              -->
+<!-- MARK 0.5: STATIC TERMINAL BLOCK (NO ANIMATION)               -->
 <!-- ============================================================ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00FF00&center=true&vCenter=true&width=700&height=160&lines=PS%3E+whoami;%3E+ashish-khattry;PS%3E+rustc+--version;%3E+rustc+1.80.0+(051478957+2024-07-21);PS%3E+cargo+build+--release+--target=x86_64-pc-windows-msvc;%3E+Finished+%60release%60+profile+%5Boptimized%5D+target(s)+in+0.47s;PS%3E+.%5Ctarget%5Crelease%5Cashish.exe;%3E+🔥+Boot+Sequence+Complete.;%3E+🦀+Zero+Panics+Loaded.;%3E+🚀+Ready+for+Production+Deployment." alt="Terminal Boot" />
-</p>
+<pre align="center">
+<code>
+PS> whoami
+> ashish-khattry
+
+PS> rustc --version
+> rustc 1.80.0 (051478957 2024-07-21)
+
+PS> cargo build --release --target=x86_64-pc-windows-msvc
+> Compiling project_phoenix v0.1.0
+>     Finished `release` profile [optimized] target(s) in 0.47s
+
+PS> .\target\release\ashish.exe
+> 🔥 Boot Sequence Complete.
+> 🦀 Zero Panics Loaded.
+> 🚀 Ready for Production Deployment.
+</code>
+</pre>
 
 <!-- ============================================================ -->
 <!-- MARK 1: BADGES                                               -->
@@ -42,14 +59,7 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 2: MAIN HEADLINE (ONLY 2nd ANIMATION)                 -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F74C00&center=true&vCenter=true&width=800&lines=⚡+ASHISH+KHATTTRY+%7C+RUST+ARCHITECT+⚡;Building+Memory-Safe+Systems;Zero+Panics.+100%25+Crash-Proof;Executing+Project+Phoenix;I+AM+THE+BORROW+CHECKER" alt="Main Headline" />
-</p>
-
-<!-- ============================================================ -->
-<!-- MARK 3: ABOUT ME + CODE                                      -->
+<!-- MARK 2: ABOUT ME + CODE                                      -->
 <!-- ============================================================ -->
 <table width="100%">
   <tr>
@@ -90,7 +100,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 4: BUILDING & LEARNING                                  -->
+<!-- MARK 3: BUILDING & LEARNING                                  -->
 <!-- ============================================================ -->
 <table width="100%">
   <tr>
@@ -115,7 +125,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 5: TECH STACK (STATIC HEADERS)                         -->
+<!-- MARK 4: TECH STACK                                           -->
 <!-- ============================================================ -->
 <h3 align="center">💻 Technical Arsenal</h3>
 <p align="center">
@@ -126,7 +136,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 6: MISSION CONTROL (STATIC)                            -->
+<!-- MARK 5: MISSION CONTROL                                      -->
 <!-- ============================================================ -->
 <h3 align="center">🎯 Mission Control Dashboard</h3>
 <table width="100%">
@@ -139,7 +149,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 7: PROJECT PIPELINE (STATIC)                           -->
+<!-- MARK 6: PROJECT PIPELINE                                     -->
 <!-- ============================================================ -->
 <h3 align="center">📂 Project Phoenix Pipeline</h3>
 <table width="100%">
@@ -170,7 +180,7 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 8: GITHUB STATS (STATIC HEADER)                        -->
+<!-- MARK 7: GITHUB STATS                                         -->
 <!-- ============================================================ -->
 <h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
@@ -185,7 +195,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 9: PHILOSOPHY (STATIC QUOTES)                          -->
+<!-- MARK 8: PHILOSOPHY                                           -->
 <!-- ============================================================ -->
 <br>
 <p align="center">
@@ -195,7 +205,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 10: SNAKE ANIMATION                                    -->
+<!-- MARK 9: SNAKE ANIMATION (YEH CHALEGA)                       -->
 <!-- ============================================================ -->
 <h3 align="center">🐍 The Green Graph of Discipline</h3>
 <p align="center">
@@ -203,7 +213,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 11: CONNECT                                            -->
+<!-- MARK 10: CONNECT                                             -->
 <!-- ============================================================ -->
 <h3 align="center">🌐 Connect</h3>
 <p align="center">
@@ -213,7 +223,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 12: FOOTER                                             -->
+<!-- MARK 11: FOOTER                                              -->
 <!-- ============================================================ -->
 <p align="center">
   <b>🛡️ PROJECT PHOENIX | BOOT SEQUENCE COMPLETE | 100% MEMORY SAFE 🛡️</b>
