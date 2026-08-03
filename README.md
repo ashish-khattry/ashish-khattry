@@ -180,24 +180,19 @@ fn main() {
 </table>
 
 <!-- ============================================================ -->
-<!-- MARK 7: GITHUB STATS (FIXED - DARK MODE COMPATIBLE)        -->
+<!-- MARK 7: GITHUB STATS (FIXED - NO ACTIVITY GRAPH)            -->
 <!-- ============================================================ -->
 <h3 align="center">📊 GitHub Metrics</h3>
 
-<!-- Stats + Streak - Added count_private & v=3 for fresh cache -->
+<!-- Stats + Streak (Lightweight & Stable) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" width="48%" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true&v=3" width="48%" alt="Streak" />
 </p>
 
-<!-- Top Languages - Added v=3 -->
+<!-- Top Languages (Compact & Clean) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=3" width="60%" alt="Top Languages" />
-</p>
-
-<!-- Activity Graph - CHANGED theme to github-dark for perfect dark mode blend -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=github-dark&hide_border=true&area=true&v=3" width="80%" alt="Graph" />
 </p>
 
 <!-- ============================================================ -->
@@ -211,7 +206,7 @@ fn main() {
 </p>
 
 <!-- ============================================================ -->
-<!-- MARK 9: SNAKE ANIMATION                                      -->
+<!-- MARK 9: SNAKE ANIMATION (REPLACED THE GLITCHY GRAPH)        -->
 <!-- ============================================================ -->
 <h3 align="center">🐍 The Green Graph of Discipline</h3>
 <p align="center">
