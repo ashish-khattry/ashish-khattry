@@ -1,38 +1,19 @@
-# ⚡ Ashish Khattry | Rust Backend Developer
+# Ashish Khattry | Rust Backend Developer
+
+Building memory-safe, high-concurrency systems in Rust.
 
 ---
 
-### 👋 About Me
-
-Rust Backend Developer building memory-safe, high-concurrency systems for Web3 and cloud infrastructure.
-
-- **Core Stack:** Rust, PostgreSQL, Tokio
-- **Foundation:** C, C++, Java
-- **Discipline:** Strict Ownership & Borrowing. No `unwrap()` in production.
+**Active Projects:**
+- [project_phoenix_rust](https://github.com/ashish-khattry/project_phoenix_rust) — Rust Book mastery, 100% safe code.
+- [wiki_search](https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search) — OS file search tool.
+- [basic_web_server](https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/basic_web_server) — Concurrent web server.
 
 ---
 
-### 🚀 Active Projects
-
-| Project | Description |
-| :--- | :--- |
-| **[project_phoenix_rust](https://github.com/ashish-khattry/project_phoenix_rust)** | Master repo for Official Rust Book. 100% memory-safe binaries. |
-| **[wiki_search](https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search)** | High-speed OS file search tool (Pure std, no dependencies). |
-| **[basic_web_server](https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/basic_web_server)** | Concurrent web server with strict borrowing rules. |
+**Connect:**
+[Email](mailto:ashishkhattry7@gmail.com) · [GitHub](https://github.com/ashish-khattry)
 
 ---
 
-### 🛠️ Tech Stack
-
-`Rust` · `PostgreSQL` · `Docker` · `Git` · `Windows 11 Pro` · `VS Code`
-
----
-
-### 📬 Connect
-
-- **Email:** ashishkhattry7@gmail.com
-- **GitHub:** [ashish-khattry](https://github.com/ashish-khattry)
-
----
-
-*🛡️ PROJECT PHOENIX | ACTIVE & BUILDING*
+*🦀 Rustacean · Windows 11 Pro · Discipline > Hype*
