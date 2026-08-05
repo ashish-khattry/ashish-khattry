@@ -1,5 +1,5 @@
 # ASHISH KHATTTRY
-### Rust Backend Developer 
+### Rust Backend Developer 🔥🔥🔥🔥
 **Projects:**
 - [project_phoenix_rust](https://github.com/ashish-khattry/project_phoenix_rust) — Core Rust learning & binaries
 - [wiki_search](https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search) — OS file search tool
