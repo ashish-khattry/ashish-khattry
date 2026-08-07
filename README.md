@@ -1,4 +1,3 @@
-# _ashish_khattry_
-### Rust Backend Developer   
+# _ashish_khattry_   
 
 
