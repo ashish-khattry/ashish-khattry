@@ -1,106 +1,248 @@
-── ashish-khattry ──
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashish%20Khattry&fontSize=70&animation=twinkling" alt="Ashish Khattry profile header" />
+</p>
 
-●● rust backend architect ●●
-●● memory-safe ●● zero-panic ●● crash-proof ●●
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/ashish-khattry">Ashish Khattry</a></b>
+    </samp>
+</h3>
 
-────
+<br>
 
-⏣ system
-  os    windows 11 pro
-  rustc 1.80.0
-  role  backend architect
-  mem   100% safe
-  panic 0%
-  disc  iron
+<p align="center">
+<samp>
+「 Rust Backend Architect building memory-safe systems, Web3 infrastructure, and distributed cloud platforms 」  
+</samp>
+</p>
 
-────
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Rust+Backend+Architect;Building+Memory-Safe+Systems;Zero+Panics+%7C+100%25+Crash-Proof;Web3+%7C+Cloud+%7C+High-Concurrency"
+    alt="Typing SVG"
+  />
+</p>
 
-⏣ me
-  i build systems that don't crash
-  c → c++ → java → rust
-  web3 · cloud · backend
-  goal: 100% crash-proof
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+</p>
 
-  ⏣ daily
-    0400  ██████  review
-    0500  ██████  rust
-    0800  ██████  commit
-    2100  ██████  learn
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ashish-khattry)
 
-────
+<!-- Title -->
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
 
-⏣ now
-  cli search
-    os level · pure std · result/option
+<p align="center">
 
-  axum server
-    url short · postgres · tokio
+<a href="https://ashish-khattry.github.io/">
+  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Ashish System portal" />
+</a>
 
-  chat server
-    multi-user · async · ownership
+</p>
 
-  ⏣ learn
-    traits · gats · lifetimes · web3
+<p align="center">
 
-────
+<a href="https://ashish-khattry.github.io/rust-lab/index.html">
+  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Rust Lab" />
+</a>
+<a href="https://ashish-khattry.github.io/molecules/index.html">
+  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
+</a>
+<a href="https://ashish-khattry.github.io/model-forge/index.html">
+  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
+</a>
 
-⏣ stack
-  rust        ██████████████████████████████  95%
-  postgresql  █████████████████████████████   90%
-  docker      ████████████████████████████    85%
-  git         ██████████████████████████████  100%
-  win11       ██████████████████████████████  100%
-  powershell  ██████████████████████████      80%
+</p>
 
-────
 
-⏣ projects
-  phoenix     ████████████████████████  90%
-  wiki        ███████████████████████   85%
-  server      ██████████████████████    80%
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashish-khattry)
 
-────
+<p align="center">
+  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
+</p>
 
-⏣ stats
-  commits  196
-  streak   16
-  longest  16
-  memory   100%
-  panics   0
 
-────
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/ashish-khattry)
 
-⏣ philosophy
-  servers are 100 small logics
-  consistency > intensity
-  fear 100% test coverage
-  i am the borrow checker
-  silence is the loudest
 
-────
+# 🛠 Technologies, Projects, and Domains
 
-⏣ community
-  deep work · rust arch · zero panic · 4am club
-  196 commits · crash-proof · memory 100%
-  linkedin · email · github
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
 
-────
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
 
-⏣ words
-  not a great programmer
-  good with habits
-  — beck
+<h3>🛠 Technologies</h3>
+<br>
 
-  c++ fears borrow checker
-  i am borrow checker
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
+  </tr>
+</table>
 
-  discipline is choosing
-  what you want now
-  vs what you want most
+</td>
 
-────
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
 
-◈ project phoenix ◈
-100% memory safe · 0% panics · crash-proof
+<h3>🧪 Projects</h3>
+<br>
 
-silence is the loudest sound
+<div style="width:220px;">
+  <a href="docs/PROJECTS.md">
+    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+  </a>
+</div>
+
+</td>
+
+<!-- AI DOMAINS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧠 Focus Domains</h3>
+<br>
+
+<div style="width:220px;">
+    <a href="docs/AI_DOMAIN.md">
+        <img src="docs/img/ai_domains.svg" width="220" alt="Focus domains navigation panel">
+    </a>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashish-khattry)
+
+### 📊 Vital Statistics
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-khattry&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashish-khattry&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Rust%20Backend-orange?style=flat" alt="Focus" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashish-khattry)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>Rust backend infrastructure projects</li>
+  <li>Web3 & blockchain systems</li>
+  <li>Distributed cloud platforms</li>
+  <li>High-concurrency network servers</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <a href="docs/COLLAB.md">
+        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+    </a>
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://ashish-khattry.github.io/">
+  <img src="https://img.shields.io/badge/Personal%20Website-ashish--khattry.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+</a>
+<br><br>
+
+<a href="mailto:ashishkhattry7@gmail.com">
+  <img src="https://img.shields.io/badge/email-ashishkhattry7@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/ashish-khattry/">
+  <img src="https://img.shields.io/badge/linkedin-ashish--khattry-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashish-khattry)
+
+<p align="center">
+⚡ Building memory-safe systems and Rust backend infrastructure
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./CONTRIBUTING.md">Collaboration</a> ·
+  <a href="./SECURITY.md">Security</a>
+</p>
+
+
+
+<p align="center">
+    <a href="docs/hidden/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
