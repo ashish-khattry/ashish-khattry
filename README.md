@@ -12,38 +12,45 @@
 ║  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌ ║
 ║   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ║
 ║                                                                          ║
-║  PROJECT PHOENIX : THE SILENT PROTOCOL                                   ║
+║  PROJECT PHOENIX : THE ANIMATED PROTOCOL                                ║
 ║  ASHISH KHATTTRY                                                         ║
 ║  STATUS ██████████ 100% MEMORY SAFE                                      ║
 ║  PHILOSOPHY : SILENCE IS THE LOUDEST SOUND                              ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-</pre>
+-->
 
-<h1 align="center">ASHISH KHATTTRY</h1>
-<h3 align="center">RUST BACKEND ARCHITECT</h3>
+<!-- ================================================================ -->
+<!-- SECTION 0: ANIMATED HEADER                                       -->
+<!-- ================================================================ -->
 
 <p align="center">
-  <code>memory-safe</code> · <code>zero-panic</code> · <code>crash-proof</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=F74C00&center=true&vCenter=true&width=600&lines=ASHISH+KHATTTRY;RUST+BACKEND+ARCHITECT" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <code>"I don't talk much. I let the code speak."</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=memory-safe;zero-panic;crash-proof" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=%22I+don%27t+talk+much.+I+let+the+code+speak.%22" alt="Typing SVG" />
 </p>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 1: PROFILE                                               -->
+<!-- SECTION 1: PROFILE HEADING (ANIMATED)                           -->
 <!-- ================================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00BFFF&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++SYSTEM+STATUS+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <table width="100%">
   <tr>
     <td width="45%" valign="top">
 
 <pre>
-    [ SYSTEM STATUS ]
-    ──────────────────
     OS          Windows 11 Pro
     RUSTC       1.80.0
     USER        ashish-khattry
@@ -57,9 +64,7 @@
     <td width="55%" valign="top">
 
 <pre>
-    [ PROFILE ]
-    ──────────────
-    WHO AM I?
+    PROFILE
     ──────────────
     I build memory-safe, 
     zero-panic systems.
@@ -69,7 +74,6 @@
     Philosophy  : Silence is the 
                  loudest sound.
     
-    ──────────────
     DAILY RHYTHM
     ──────────────
     0400  Review Code
@@ -85,16 +89,18 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 2: BUILDING & LEARNING                                   -->
+<!-- SECTION 2: BUILDING HEADING (ANIMATED)                          -->
 <!-- ================================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++CURRENTLY+BUILDING+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="border-top: 1px solid #333; padding: 20px 0;">
 
 <pre>
-    [ CURRENTLY BUILDING ]
-    ─────────────────────
     CLI Search Tool
     ├── Low-level OS searching
     └── Pure std, no deps
@@ -112,7 +118,7 @@
     <td width="50%" valign="top" style="border-top: 1px solid #333; padding: 20px 0;">
 
 <pre>
-    [ DEEP LEARNING ]
+    DEEP LEARNING
     ────────────────
     Advanced Traits & GATs
     ├── Generic Associated Types
@@ -134,36 +140,40 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 3: TECH STACK                                            -->
+<!-- SECTION 3: TECH STACK HEADING (ANIMATED)                        -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ TECHNICAL ARSENAL ]
-    ─────────────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++TECHNICAL+ARSENAL+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" />
 </p>
 
-<pre align="center">
-    ─────────────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=500&color=888888&center=true&vCenter=true&width=200&lines=───────+CORE+WEAPONS+───────" alt="Typing SVG" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=500&color=888888&center=true&vCenter=true&width=300&lines=─────+INFRASTRUCTURE+─────" alt="Typing SVG" />
+</p>
+
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 4: PROJECT PIPELINE                                      -->
+<!-- SECTION 4: PROJECT HEADING (ANIMATED)                           -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ PROJECT PIPELINE ]
-    ────────────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=F74C00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++PROJECT+PIPELINE+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <table width="100%" style="border-collapse: collapse; font-family: monospace;">
   <tr style="border-bottom: 1px solid #444;">
@@ -191,13 +201,12 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 5: DASHBOARD                                             -->
+<!-- SECTION 5: DASHBOARD HEADING (ANIMATED)                         -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ DASHBOARD ]
-    ─────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00BFFF&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++DASHBOARD+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <table width="100%" style="font-family: monospace; border-collapse: collapse;">
   <tr>
@@ -223,21 +232,20 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 6: GITHUB STATS                                          -->
+<!-- SECTION 6: GITHUB STATS HEADING (ANIMATED)                      -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ STATISTICS ]
-    ──────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++STATISTICS+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=4" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=5" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=4" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=5" width="50%" />
 </p>
 
 <p align="center">
@@ -247,37 +255,42 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 7: PHILOSOPHY                                            -->
+<!-- SECTION 7: PHILOSOPHY HEADING (ANIMATED)                        -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ PHILOSOPHY ]
-    ──────────────
-    large servers are just
-    100 small logics combined.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++PHILOSOPHY+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
-    consistency beats intensity.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=large+servers+are+just;100+small+logics+combined." alt="Typing SVG" />
+</p>
 
-    fear the person who has
-    the discipline to write
-    100% test coverage.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00FF00&center=true&vCenter=true&width=400&lines=consistency+beats+intensity." alt="Typing SVG" />
+</p>
 
-    <strong style="color: #FF5722;">I AM THE BORROW CHECKER.</strong>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=fear+the+person+who+has;the+discipline+to+write;100%25+test+coverage." alt="Typing SVG" />
+</p>
 
-    silence is the loudest
-    sound in the codebase.
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=I+AM+THE+BORROW+CHECKER." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=888888&center=true&vCenter=true&width=400&lines=silence+is+the+loudest;sound+in+the+codebase." alt="Typing SVG" />
+</p>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 8: CONTRIBUTION GRAPH                                    -->
+<!-- SECTION 8: CONTRIBUTION GRAPH HEADING (ANIMATED)                -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ THE GREEN GRAPH ]
-    ───────────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++THE+GREEN+GRAPH+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Discipline Graph" />
@@ -286,13 +299,12 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 9: COMMUNITY                                             -->
+<!-- SECTION 9: COMMUNITY HEADING (ANIMATED)                         -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ COMMUNITY ]
-    ─────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++COMMUNITY+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
 <table width="100%">
   <tr>
@@ -324,35 +336,31 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 10: QUOTES                                               -->
+<!-- SECTION 10: QUOTES HEADING (ANIMATED)                           -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    [ QUOTES ]
-    ──────────
-    "i'm not a great programmer.
-     i'm a good programmer with
-     great habits." — kent beck
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00BFFF&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++QUOTES+++║;╚═══════════════════════════╝" alt="Typing SVG" />
+</p>
 
-    "c++ programmers fear the
-     borrow checker. i am the
-     borrow checker."
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=FFA500&center=true&vCenter=true&width=600&lines=%22i%27m+not+a+great+programmer.;i%27m+a+good+programmer+with+great+habits.%22+—+kent+beck" alt="Typing SVG" />
+</p>
 
-    "discipline is choosing
-     between what you want now
-     and what you want most."
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1500&color=FF5722&center=true&vCenter=true&width=500&lines=%22c%2B%2B+programmers+fear+the;borrow+checker.+i+am+the;borrow+checker.%22" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=00FF00&center=true&vCenter=true&width=500&lines=%22discipline+is+choosing;between+what+you+want+now;and+what+you+want+most.%22" alt="Typing SVG" />
+</p>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 11: FOOTER                                               -->
+<!-- SECTION 11: FOOTER (ANIMATED)                                   -->
 <!-- ================================================================ -->
 
-<pre align="center">
-    ────────────────────────────────────────────────────────────────
-    project phoenix | boot sequence complete
-    100% memory safe | 0% panics
-    "silence is the loudest sound"
-    ────────────────────────────────────────────────────────────────
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=───────+PROJECT+PHOENIX+───────;100%25+MEMORY+SAFE+%7C+0%25+PANICS;%22silence+is+the+loudest+sound%22" alt="Typing SVG" />
+</p>
