@@ -1,248 +1,303 @@
+<!-- ============================================================ -->
+<!--        ██████╗ ██████╗  ██████╗ ██╗███████╗██╗  ██╗         -->
+<!--        ██╔══██╗██╔══██╗██╔═══██╗██║██╔════╝╚██╗██╔╝         -->
+<!--        ██████╔╝██████╔╝██║   ██║██║█████╗   ╚███╔╝          -->
+<!--        ██╔═══╝ ██╔══██╗██║   ██║██║██╔══╝   ██╔██╗          -->
+<!--        ██║     ██║  ██║╚██████╔╝██║███████╗██╔╝ ██╗         -->
+<!--        ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝         -->
+<!-- ============================================================ -->
+
+<h1 align="center">ASHISH KHATTTRY</h1>
+<h3 align="center">RUST BACKEND ARCHITECT</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashish%20Khattry&fontSize=70&animation=twinkling" alt="Ashish Khattry profile header" />
+  <code>memory-safe</code> · <code>zero-panic</code> · <code>crash-proof</code>
 </p>
 
-<!-- Title -->
-<h3 align="center">
-    <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/ashish-khattry">Ashish Khattry</a></b>
-    </samp>
-</h3>
+<p align="center">
+  <i>"I don't talk much. I let the code speak for itself."</i>
+</p>
 
 <br>
 
-<p align="center">
-<samp>
-「 Rust Backend Architect building memory-safe systems, Web3 infrastructure, and distributed cloud platforms 」  
-</samp>
-</p>
+<!-- ============================================================ -->
+<!--                       SYSTEM STATUS                           -->
+<!-- ============================================================ -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Rust+Backend+Architect;Building+Memory-Safe+Systems;Zero+Panics+%7C+100%25+Crash-Proof;Web3+%7C+Cloud+%7C+High-Concurrency"
-    alt="Typing SVG"
-  />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         SYSTEM STATUS                            ║
+╚══════════════════════════════════════════════════════════════════╝
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
-</p>
-
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ashish-khattry)
-
-<!-- Title -->
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
-
-<p align="center">
-
-<a href="https://ashish-khattry.github.io/">
-  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Ashish System portal" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://ashish-khattry.github.io/rust-lab/index.html">
-  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Rust Lab" />
-</a>
-<a href="https://ashish-khattry.github.io/molecules/index.html">
-  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
-</a>
-<a href="https://ashish-khattry.github.io/model-forge/index.html">
-  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
-</a>
-
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ashish-khattry)
-
-<p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/ashish-khattry)
-
-
-# 🛠 Technologies, Projects, and Domains
-
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: TOOLS -->
-<td width="420" valign="top" align="center">
-
-<h3>🛠 Technologies</h3>
-<br>
-
-<table align="center" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
-  </tr>
-</table>
-
-</td>
-
-<!-- PROJECTS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧪 Projects</h3>
-<br>
-
-<div style="width:220px;">
-  <a href="docs/PROJECTS.md">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
-  </a>
-</div>
-
-</td>
-
-<!-- AI DOMAINS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧠 Focus Domains</h3>
-<br>
-
-<div style="width:220px;">
-    <a href="docs/AI_DOMAIN.md">
-        <img src="docs/img/ai_domains.svg" width="220" alt="Focus domains navigation panel">
-    </a>
-</div>
-
-</td>
-
-</tr>
-</table>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/ashish-khattry)
-
-### 📊 Vital Statistics
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=radical" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-khattry&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashish-khattry&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Rust%20Backend-orange?style=flat" alt="Focus" />
-</p>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashish-khattry)
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
-
-<h2>🤝 Collaboration</h2>
-
-I’m open to collaborating on:
-
-<ul>
-  <li>Rust backend infrastructure projects</li>
-  <li>Web3 & blockchain systems</li>
-  <li>Distributed cloud platforms</li>
-  <li>High-concurrency network servers</li>
-</ul>
-
-</td>
-
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
-</td>
-
-<!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
-
-<h2>📫 Contact</h2>
+  ╭──────────────────────────────────────────────────────────────╮
+  │  OS          ➜  Windows 11 Pro                             │
+  │  RUSTC       ➜  1.80.0                                     │
+  │  USER        ➜  ashish-khattry                            │
+  │  ROLE        ➜  Backend Architect                          │
+  │  MEMORY      ➜  100% SAFE                                  │
+  │  PANICS      ➜  0% TOLERATED                               │
+  │  DISCIPLINE  ➜  IRON                                       │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
 
 <br>
 
-<a href="https://ashish-khattry.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-ashish--khattry.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
-</a>
-<br><br>
+<!-- ============================================================ -->
+<!--                         PROFILE                               -->
+<!-- ============================================================ -->
 
-<a href="mailto:ashishkhattry7@gmail.com">
-  <img src="https://img.shields.io/badge/email-ashishkhattry7@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
-</a>
-<br><br>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         PROFILE                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 
-<a href="https://www.linkedin.com/in/ashish-khattry/">
-  <img src="https://img.shields.io/badge/linkedin-ashish--khattry-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
-</a>
+  ╭──────────────────────────────────────────────────────────────╮
+  │  I build memory-safe, zero-panic systems.                    │
+  │                                                              │
+  │  Foundation  ➜  C · C++ · Java                              │
+  │  Focus       ➜  Rust · Web3 · Cloud                         │
+  │  Goal        ➜  100% crash-proof enterprise servers         │
+  │                                                              │
+  │  ═════════════════════════════════════════════════════════  │
+  │                                                              │
+  │  DAILY RHYTHM                                                │
+  │  0400  ██████████  Review Code                              │
+  │  0500  ██████████  Deep Work (Rust)                        │
+  │  0800  ██████████  Commit & Push                           │
+  │  2100  ██████████  Learn & Document                        │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
 
-</td>
+<br>
 
-</tr>
-</table>
+<!-- ============================================================ -->
+<!--                    CURRENTLY BUILDING                         -->
+<!-- ============================================================ -->
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ashish-khattry)
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                    CURRENTLY BUILDING                            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭──────────────────────────────────────────────────────────────╮
+  │  CLI SEARCH TOOL                                             │
+  │  ├── Low-level OS file searching                             │
+  │  ├── Pure std, zero dependencies                             │
+  │  └── Result & Option error handling                          │
+  │                                                              │
+  │  AXUM WEB SERVER                                             │
+  │  ├── URL Shortener service                                   │
+  │  ├── PostgreSQL database integration                         │
+  │  └── High concurrency with Tokio                             │
+  │                                                              │
+  │  NETWORK CHAT SERVER                                         │
+  │  ├── Concurrent multi-user system                            │
+  │  ├── Tokio runtime with async/await                          │
+  │  └── Strict Ownership & Borrowing mechanics                  │
+  │                                                              │
+  │  ═════════════════════════════════════════════════════════  │
+  │                                                              │
+  │  DEEP LEARNING                                               │
+  │                                                              │
+  │  ADVANCED TRAITS & GATS                                      │
+  │  ├── Generic Associated Types                                │
+  │  └── Higher-ranked trait bounds                              │
+  │                                                              │
+  │  LIFETIME ANNOTATIONS                                        │
+  │  ├── Variance & Subtyping                                    │
+  │  └── Lifetime bounds & elision                               │
+  │                                                              │
+  │  WEB3 INFRASTRUCTURE                                         │
+  │  ├── Alloy / ethers-rs                                       │
+  │  └── Smart contract integration                              │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                      TECHNICAL ARSENAL                        -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                     TECHNICAL ARSENAL                            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭──────────────────────────────────────────────────────────────╮
+  │  Rust        ████████████████████████████████████████░░░░  95%  │
+  │  PostgreSQL  ████████████████████████████████████████░░░░  90%  │
+  │  Docker      ████████████████████████████████████████░░░░  85%  │
+  │  Git         ████████████████████████████████████████████  100% │
+  │  Windows 11  ████████████████████████████████████████████  100% │
+  │  PowerShell  ████████████████████████████████████░░░░░░░░  80%  │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                      PROJECT PIPELINE                         -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                     PROJECT PIPELINE                             ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭──────────────────────────────────────────────────────────────╮
+  │  project_phoenix_rust  ████████████████████████████████░░░░  90%  │
+  │  wiki_search           ██████████████████████████████░░░░░  85%  │
+  │  basic_web_server      ████████████████████████████░░░░░░  80%  │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                        DASHBOARD                              -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         DASHBOARD                                ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭──────────┬──────────┬──────────┬──────────┬──────────╮
+  │ COMMITS  │  STREAK  │ LONGEST  │ MEMORY   │ PANICS   │
+  ├──────────┼──────────┼──────────┼──────────┼──────────┤
+  │          │          │          │          │          │
+  │   196    │   16     │   16     │  100%    │   0      │
+  │          │          │          │          │          │
+  ╰──────────┴──────────┴──────────┴──────────┴──────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                       STATISTICS                              -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                        STATISTICS                                ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <p align="center">
-⚡ Building memory-safe systems and Rust backend infrastructure
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=12" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
-  <a href="./CONTRIBUTING.md">Collaboration</a> ·
-  <a href="./SECURITY.md">Security</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=12" width="50%" />
 </p>
-
-
 
 <p align="center">
-    <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
-    </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" />
 </p>
 
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
-</p>
+<!-- ============================================================ -->
+<!--                       PHILOSOPHY                              -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                        PHILOSOPHY                                ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭──────────────────────────────────────────────────────────────╮
+  │                                                              │
+  │   "large servers are just 100 small logics combined."        │
+  │                                                              │
+  │   "consistency beats intensity."                             │
+  │                                                              │
+  │   "fear the person who has the discipline to write           │
+  │    100% test coverage."                                      │
+  │                                                              │
+  │   ────────────────────────────────────────────────────────── │
+  │                                                              │
+  │   "I AM THE BORROW CHECKER."                                 │
+  │                                                              │
+  │   ────────────────────────────────────────────────────────── │
+  │                                                              │
+  │   "silence is the loudest sound in the codebase."            │
+  │                                                              │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                       COMMUNITY                               -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                        COMMUNITY                                 ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭───────────────────────┬───────────────────────┬──────────────╮
+  │      PHILOSOPHY       │      MILESTONES       │   CONNECT    │
+  ├───────────────────────┼───────────────────────┼──────────────┤
+  │                       │                       │              │
+  │  deep work state      │  196+ commits         │  LinkedIn    │
+  │  rust core arch       │  100% crash-proof     │  Email       │
+  │  zero panic eng       │  memory: 100%         │  GitHub      │
+  │  discipline > moti    │  zero panics          │              │
+  │  4:00 am club         │  target: 100% tests   │              │
+  │                       │                       │              │
+  ╰───────────────────────┴───────────────────────┴──────────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                         QUOTES                                -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         QUOTES                                   ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  ╭──────────────────────────────────────────────────────────────╮
+  │                                                              │
+  │  "i'm not a great programmer.                                │
+  │   i'm a good programmer with great habits." — kent beck    │
+  │                                                              │
+  │  "c++ programmers fear the borrow checker.                   │
+  │   i am the borrow checker."                                 │
+  │                                                              │
+  │  "discipline is choosing between what you want now          │
+  │   and what you want most."                                  │
+  │                                                              │
+  ╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                        FOOTER                                 -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ▄████████  ▄█   ▄█          ▄████████ ████████▄     ▄████████ ║
+║  ███    ███ ███  ███         ███    ███ ███   ▀███   ███    ███ ║
+║  ███    █▀  ███▌ ███         ███    ███ ███    ███   ███    █▀  ║
+║  ███        ███▌ ███        ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄    ║
+║▀███████████ ███▌ ███       ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀    ║
+║         ███ ███  ███         ███    ███ ███    ███   ███    █▄   ║
+║   ▄█    ███ ███  ███▌    ▄   ███    ███ ███   ▄███   ███    ███  ║
+║ ▄████████▀  █▀   █████▄▄██   ██████████ ████████▀    ██████████  ║
+║                                                                  ║
+║  100% MEMORY SAFE · 0% PANICS · CRASH-PROOF                    ║
+║                                                                  ║
+║  "silence is the loudest sound"                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
