@@ -12,56 +12,52 @@
 ║  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌ ║
 ║   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ║
 ║                                                                          ║
-║  PROJECT PHOENIX : THE ANIMATED PROTOCOL                                ║
-║  ASHISH KHATTTRY                                                         ║
-║  STATUS ██████████ 100% MEMORY SAFE                                      ║
-║  PHILOSOPHY : SILENCE IS THE LOUDEST SOUND                              ║
+║  PROJECT PHOENIX : THE UNIQUE PROTOCOL                                    ║
+║  ASHISH KHATTTRY                                                          ║
+║  STATUS ██████████ 100% MEMORY SAFE                                       ║
+║  PHILOSOPHY : CODE SPEAKS. I LISTEN.                                    ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ================================================================ -->
-<!-- SECTION 0: ANIMATED HEADER                                       -->
-<!-- ================================================================ -->
+<h1 align="center">ASHISH KHATTTRY</h1>
+<h3 align="center">RUST BACKEND ARCHITECT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=F74C00&center=true&vCenter=true&width=600&lines=ASHISH+KHATTTRY;RUST+BACKEND+ARCHITECT" alt="Typing SVG" />
+  <code>memory-safe</code> · <code>zero-panic</code> · <code>crash-proof</code>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=memory-safe;zero-panic;crash-proof" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=%22I+don%27t+talk+much.+I+let+the+code+speak.%22" alt="Typing SVG" />
+  <i>"I don't talk much. I let the code speak for itself."</i>
 </p>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 1: PROFILE HEADING (ANIMATED)                           -->
+<!-- SECTION 1: SYSTEM STATUS                                         -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00BFFF&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++SYSTEM+STATUS+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         SYSTEM STATUS                            ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <table width="100%">
   <tr>
-    <td width="45%" valign="top">
+    <td width="50%" valign="top">
 
 <pre>
-    OS          Windows 11 Pro
-    RUSTC       1.80.0
-    USER        ashish-khattry
-    ROLE        Backend Architect
-    MEMORY      100% SAFE
-    PANICS      0% TOLERATED
-    DISCIPLINE  IRON
+    OS          ════════════  Windows 11 Pro
+    RUSTC       ════════════  1.80.0
+    USER        ════════════  ashish-khattry
+    ROLE        ════════════  Backend Architect
+    MEMORY      ════════════  100% SAFE
+    PANICS      ════════════  0% TOLERATED
 </pre>
 
     </td>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
 
 <pre>
     PROFILE
@@ -69,10 +65,9 @@
     I build memory-safe, 
     zero-panic systems.
     
-    Foundation : C, C++, Java
+    Foundation  : C, C++, Java
+    Focus       : Rust · Web3 · Cloud
     Goal        : 100% crash-proof
-    Philosophy  : Silence is the 
-                 loudest sound.
     
     DAILY RHYTHM
     ──────────────
@@ -89,48 +84,53 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 2: BUILDING HEADING (ANIMATED)                          -->
+<!-- SECTION 2: BUILDING & LEARNING                                   -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++CURRENTLY+BUILDING+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                      CURRENTLY BUILDING                          ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border-top: 1px solid #333; padding: 20px 0;">
+    <td width="50%" valign="top">
 
 <pre>
-    CLI Search Tool
+    CLI SEARCH TOOL
     ├── Low-level OS searching
-    └── Pure std, no deps
+    ├── Pure std, no dependencies
+    └── Result & Option handling
 
-    Axum Web Server
+    AXUM WEB SERVER
     ├── URL Shortener
-    └── PostgreSQL DB
+    ├── PostgreSQL integration
+    └── High concurrency
 
-    Network Chat Server
+    NETWORK CHAT SERVER
     ├── Concurrent system
-    └── Tokio + Ownership
+    ├── Tokio runtime
+    └── Strict Ownership & Borrowing
 </pre>
 
     </td>
-    <td width="50%" valign="top" style="border-top: 1px solid #333; padding: 20px 0;">
+    <td width="50%" valign="top">
 
 <pre>
     DEEP LEARNING
     ────────────────
-    Advanced Traits & GATs
+    ADVANCED TRAITS & GATS
     ├── Generic Associated Types
-    └── Higher-ranked bounds
+    └── Higher-ranked trait bounds
 
-    Lifetime Annotations
+    LIFETIME ANNOTATIONS
     ├── Variance & Subtyping
     └── Lifetime bounds
 
-    Web3 Infrastructure
+    WEB3 INFRASTRUCTURE
     ├── Alloy / ethers-rs
-    └── Smart contract dev
+    └── Smart contract integration
 </pre>
 
     </td>
@@ -140,91 +140,110 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 3: TECH STACK HEADING (ANIMATED)                        -->
+<!-- SECTION 3: TECH STACK (PROGRESS BARS - UNIQUE!)                -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++TECHNICAL+ARSENAL+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                       TECHNICAL ARSENAL                          ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=500&color=888888&center=true&vCenter=true&width=200&lines=───────+CORE+WEAPONS+───────" alt="Typing SVG" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=500&color=888888&center=true&vCenter=true&width=300&lines=─────+INFRASTRUCTURE+─────" alt="Typing SVG" />
-</p>
-
-<br>
-
-<!-- ================================================================ -->
-<!-- SECTION 4: PROJECT HEADING (ANIMATED)                           -->
-<!-- ================================================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=F74C00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++PROJECT+PIPELINE+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
-
-<table width="100%" style="border-collapse: collapse; font-family: monospace;">
-  <tr style="border-bottom: 1px solid #444;">
-    <th align="left" style="padding: 8px;">PROJECT</th>
-    <th align="left" style="padding: 8px;">TECH</th>
-    <th align="left" style="padding: 8px;">STATUS</th>
+<table align="center" width="80%">
+  <tr>
+    <td width="30%"><code>Rust</code></td>
+    <td width="70%"><code>████████████████████████████████████████ 100%</code></td>
   </tr>
   <tr>
-    <td style="padding: 8px;"><a href="https://github.com/ashish-khattry/project_phoenix_rust">project_phoenix_rust</a></td>
-    <td style="padding: 8px;">Rust</td>
-    <td style="padding: 8px;">● active</td>
+    <td><code>PostgreSQL</code></td>
+    <td><code>████████████████████████████████████████ 100%</code></td>
   </tr>
   <tr>
-    <td style="padding: 8px;"><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search">wiki_search</a></td>
-    <td style="padding: 8px;">Rust</td>
-    <td style="padding: 8px;">● active</td>
+    <td><code>Docker</code></td>
+    <td><code>████████████████████████████████████████ 100%</code></td>
   </tr>
   <tr>
-    <td style="padding: 8px;"><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/basic_web_server">basic_web_server</a></td>
-    <td style="padding: 8px;">Rust</td>
-    <td style="padding: 8px;">● active</td>
+    <td><code>Git</code></td>
+    <td><code>████████████████████████████████████████ 100%</code></td>
+  </tr>
+  <tr>
+    <td><code>Windows 11 Pro</code></td>
+    <td><code>████████████████████████████████████████ 100%</code></td>
   </tr>
 </table>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 5: DASHBOARD HEADING (ANIMATED)                         -->
+<!-- SECTION 4: PROJECT PIPELINE                                      -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00BFFF&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++DASHBOARD+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                       PROJECT PIPELINE                           ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
-<table width="100%" style="font-family: monospace; border-collapse: collapse;">
+<table width="100%">
+  <tr style="border-bottom: 2px solid #444;">
+    <th align="left" style="padding: 10px;">PROJECT</th>
+    <th align="left" style="padding: 10px;">TECH</th>
+    <th align="left" style="padding: 10px;">STATUS</th>
+    <th align="left" style="padding: 10px;">PROGRESS</th>
+  </tr>
   <tr>
-    <td align="center" style="border: 1px solid #333; padding: 20px;">
+    <td style="padding: 10px;"><a href="https://github.com/ashish-khattry/project_phoenix_rust">project_phoenix_rust</a></td>
+    <td style="padding: 10px;">Rust</td>
+    <td style="padding: 10px;">🟢 active</td>
+    <td style="padding: 10px;"><code>████████████████████████████░░ 90%</code></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search">wiki_search</a></td>
+    <td style="padding: 10px;">Rust</td>
+    <td style="padding: 10px;">🟢 active</td>
+    <td style="padding: 10px;"><code>████████████████████████████░░ 85%</code></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/basic_web_server">basic_web_server</a></td>
+    <td style="padding: 10px;">Rust</td>
+    <td style="padding: 10px;">🟢 active</td>
+    <td style="padding: 10px;"><code>████████████████████████████░░ 80%</code></td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ================================================================ -->
+<!-- SECTION 5: DASHBOARD (ASCII BARS - UNIQUE!)                     -->
+<!-- ================================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         DASHBOARD                                ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
+<table width="100%">
+  <tr>
+    <td align="center" style="border: 2px solid #333; padding: 20px; width: 20%;">
       <code>COMMITS</code><br>
-      <code style="font-size: 28px; color: #00FF00;">196</code>
+      <span style="font-size: 32px; color: #00FF00;">196</span>
     </td>
-    <td align="center" style="border: 1px solid #333; padding: 20px;">
-      <code>CURRENT STREAK</code><br>
-      <code style="font-size: 28px; color: #FFA500;">16</code>
+    <td align="center" style="border: 2px solid #333; padding: 20px; width: 20%;">
+      <code>STREAK</code><br>
+      <span style="font-size: 32px; color: #FFA500;">16</span>
     </td>
-    <td align="center" style="border: 1px solid #333; padding: 20px;">
-      <code>LONGEST STREAK</code><br>
-      <code style="font-size: 28px; color: #00FF00;">16</code>
+    <td align="center" style="border: 2px solid #333; padding: 20px; width: 20%;">
+      <code>LONGEST</code><br>
+      <span style="font-size: 32px; color: #00FF00;">16</span>
     </td>
-    <td align="center" style="border: 1px solid #333; padding: 20px;">
-      <code>MEMORY SAFETY</code><br>
-      <code style="font-size: 28px; color: #00BFFF;">100%</code>
+    <td align="center" style="border: 2px solid #333; padding: 20px; width: 20%;">
+      <code>MEMORY</code><br>
+      <span style="font-size: 32px; color: #00BFFF;">100%</span>
+    </td>
+    <td align="center" style="border: 2px solid #333; padding: 20px; width: 20%;">
+      <code>PANICS</code><br>
+      <span style="font-size: 32px; color: #FF0000;">0</span>
     </td>
   </tr>
 </table>
@@ -232,20 +251,22 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 6: GITHUB STATS HEADING (ANIMATED)                      -->
+<!-- SECTION 6: GITHUB STATS                                          -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++STATISTICS+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         STATISTICS                               ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=5" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&v=6" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=5" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true&v=6" width="50%" />
 </p>
 
 <p align="center">
@@ -255,42 +276,50 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 7: PHILOSOPHY HEADING (ANIMATED)                        -->
+<!-- SECTION 7: PHILOSOPHY (UNIQUE ASCII QUOTES)                     -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++PHILOSOPHY+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         PHILOSOPHY                               ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=large+servers+are+just;100+small+logics+combined." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00FF00&center=true&vCenter=true&width=400&lines=consistency+beats+intensity." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=fear+the+person+who+has;the+discipline+to+write;100%25+test+coverage." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=I+AM+THE+BORROW+CHECKER." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1500&color=888888&center=true&vCenter=true&width=400&lines=silence+is+the+loudest;sound+in+the+codebase." alt="Typing SVG" />
-</p>
+<pre align="center">
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║    "large servers are just                               ║
+    ║     100 small logics combined."                          ║
+    ║                                                           ║
+    ║    "consistency beats intensity."                        ║
+    ║                                                           ║
+    ║    "fear the person who has                              ║
+    ║     the discipline to write                              ║
+    ║     100% test coverage."                                 ║
+    ║                                                           ║
+    ║    ═══════════════════════════════════════════════════   ║
+    ║                                                           ║
+    ║    "I AM THE BORROW CHECKER."                            ║
+    ║                                                           ║
+    ║    ═══════════════════════════════════════════════════   ║
+    ║                                                           ║
+    ║    "silence is the loudest                               ║
+    ║     sound in the codebase."                              ║
+    ║                                                           ║
+    ╚═══════════════════════════════════════════════════════════╝
+</pre>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 8: CONTRIBUTION GRAPH HEADING (ANIMATED)                -->
+<!-- SECTION 8: CONTRIBUTION GRAPH                                    -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF00&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++THE+GREEN+GRAPH+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                     THE GREEN GRAPH                              ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Discipline Graph" />
@@ -299,12 +328,14 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 9: COMMUNITY HEADING (ANIMATED)                         -->
+<!-- SECTION 9: COMMUNITY                                             -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++COMMUNITY+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         COMMUNITY                                ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <table width="100%">
   <tr>
@@ -336,31 +367,48 @@
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 10: QUOTES HEADING (ANIMATED)                           -->
+<!-- SECTION 10: FINAL QUOTES                                         -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00BFFF&center=true&vCenter=true&width=400&lines=╔═══════════════════════════╗;║+++QUOTES+++║;╚═══════════════════════════╝" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                         QUOTES                                   ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=FFA500&center=true&vCenter=true&width=600&lines=%22i%27m+not+a+great+programmer.;i%27m+a+good+programmer+with+great+habits.%22+—+kent+beck" alt="Typing SVG" />
-</p>
+<pre align="center">
+    "i'm not a great programmer.
+     i'm a good programmer with
+     great habits." — kent beck
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1500&color=FF5722&center=true&vCenter=true&width=500&lines=%22c%2B%2B+programmers+fear+the;borrow+checker.+i+am+the;borrow+checker.%22" alt="Typing SVG" />
-</p>
+    "c++ programmers fear the
+     borrow checker. i am the
+     borrow checker."
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=00FF00&center=true&vCenter=true&width=500&lines=%22discipline+is+choosing;between+what+you+want+now;and+what+you+want+most.%22" alt="Typing SVG" />
-</p>
+    "discipline is choosing
+     between what you want now
+     and what you want most."
+</pre>
 
 <br>
 
 <!-- ================================================================ -->
-<!-- SECTION 11: FOOTER (ANIMATED)                                   -->
+<!-- SECTION 11: FOOTER                                               -->
 <!-- ================================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=───────+PROJECT+PHOENIX+───────;100%25+MEMORY+SAFE+%7C+0%25+PANICS;%22silence+is+the+loudest+sound%22" alt="Typing SVG" />
-</p>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ██████╗ ██████╗  ██████╗ ██╗███████╗██╗  ██╗████████╗       ║
+║    ██╔══██╗██╔══██╗██╔═══██╗██║██╔════╝╚██╗██╔╝╚══██╔══╝       ║
+║    ██████╔╝██████╔╝██║   ██║██║█████╗   ╚███╔╝    ██║          ║
+║    ██╔═══╝ ██╔══██╗██║   ██║██║██╔══╝   ██╔██╗    ██║          ║
+║    ██║     ██║  ██║╚██████╔╝██║███████╗██╔╝ ██╗   ██║          ║
+║    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝          ║
+║                                                                  ║
+║    100% MEMORY SAFE · 0% PANICS · CRASH-PROOF                   ║
+║                                                                  ║
+║    "silence is the loudest sound"                                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
