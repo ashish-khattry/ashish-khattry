@@ -1,10 +1,4 @@
-<!-- ============================================================ -->
-<!--        ██████╗ ██████╗  ██████╗ ██╗███████╗██╗  ██╗         -->
-<!--        ██╔══██╗██╔══██╗██╔═══██╗██║██╔════╝╚██╗██╔╝         -->
-<!--        ██████╔╝██████╔╝██║   ██║██║█████╗   ╚███╔╝          -->
-<!--        ██╔═══╝ ██╔══██╗██║   ██║██║██╔══╝   ██╔██╗          -->
-<!--        ██║     ██║  ██║╚██████╔╝██║███████╗██╔╝ ██╗         -->
-<!--        ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝         -->
+
 <!-- ============================================================ -->
 
 <h1 align="center">ASHISH KHATTTRY</h1>
@@ -175,39 +169,23 @@
 <br>
 
 <!-- ============================================================ -->
-<!--                       STATISTICS                              -->
+<!--                    VITAL STATISTICS                           -->
 <!-- ============================================================ -->
 
-<pre align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║                        STATISTICS                                ║
-╚══════════════════════════════════════════════════════════════════╝
-</pre>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-khattry&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=radical&hide_border=true&area=true" width="80%" />
 </p>
 
 <br>
-
-<!-- ============================================================ -->
-<!--                     PROFILE STATS                             -->
-<!-- ============================================================ -->
-
-<pre align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║                     PROFILE STATS                                ║
-╚══════════════════════════════════════════════════════════════════╝
-</pre>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashish-khattry&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
@@ -311,21 +289,3 @@
 <!--                        FOOTER                                 -->
 <!-- ============================================================ -->
 
-<pre align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ▄████████  ▄█   ▄█          ▄████████ ████████▄     ▄████████ ║
-║  ███    ███ ███  ███         ███    ███ ███   ▀███   ███    ███ ║
-║  ███    █▀  ███▌ ███         ███    ███ ███    ███   ███    █▀  ║
-║  ███        ███▌ ███        ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄    ║
-║▀███████████ ███▌ ███       ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀    ║
-║         ███ ███  ███         ███    ███ ███    ███   ███    █▄   ║
-║   ▄█    ███ ███  ███▌    ▄   ███    ███ ███   ▄███   ███    ███  ║
-║ ▄████████▀  █▀   █████▄▄██   ██████████ ████████▀    ██████████  ║
-║                                                                  ║
-║  100% MEMORY SAFE · 0% PANICS · CRASH-PROOF                    ║
-║                                                                  ║
-║  "silence is the loudest sound"                                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-</pre>
