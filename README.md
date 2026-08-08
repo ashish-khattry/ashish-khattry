@@ -1,121 +1,106 @@
-PROJECT PHOENIX
-ASHISH KHATTTRY
-RUST BACKEND ARCHITECT
+── ashish-khattry ──
 
-memory-safe
-zero-panic
-crash-proof
+●● rust backend architect ●●
+●● memory-safe ●● zero-panic ●● crash-proof ●●
 
-"I don't talk much. I let the code speak."
+────
 
+⏣ system
+  os    windows 11 pro
+  rustc 1.80.0
+  role  backend architect
+  mem   100% safe
+  panic 0%
+  disc  iron
 
-SYSTEM
-------------------------------------------------------------------------------
-os          Windows 11 Pro
-rustc       1.80.0
-user        ashish-khattry
-role        Backend Architect
-memory      100% SAFE
-panics      0% TOLERATED
-discipline  IRON
+────
 
+⏣ me
+  i build systems that don't crash
+  c → c++ → java → rust
+  web3 · cloud · backend
+  goal: 100% crash-proof
 
-PROFILE
-------------------------------------------------------------------------------
-I build memory-safe, zero-panic systems.
+  ⏣ daily
+    0400  ██████  review
+    0500  ██████  rust
+    0800  ██████  commit
+    2100  ██████  learn
 
-foundation  C  C++  Java
-focus       Rust  Web3  Cloud
-goal        100% crash-proof enterprise servers
+────
 
-daily rhythm
-0400  review code
-0500  deep work
-0800  commit
-2100  learn
+⏣ now
+  cli search
+    os level · pure std · result/option
 
+  axum server
+    url short · postgres · tokio
 
-BUILDING
-------------------------------------------------------------------------------
-CLI SEARCH TOOL
-  low-level os search
-  pure std no deps
-  result & option
+  chat server
+    multi-user · async · ownership
 
-AXUM WEB SERVER
-  url shortener
-  postgresql
-  tokio
+  ⏣ learn
+    traits · gats · lifetimes · web3
 
-NETWORK CHAT SERVER
-  multi-user
-  async/await
-  ownership & borrowing
+────
 
-learning
-  traits & gats
-  lifetimes
-  web3
+⏣ stack
+  rust        ██████████████████████████████  95%
+  postgresql  █████████████████████████████   90%
+  docker      ████████████████████████████    85%
+  git         ██████████████████████████████  100%
+  win11       ██████████████████████████████  100%
+  powershell  ██████████████████████████      80%
 
+────
 
-STACK
-------------------------------------------------------------------------------
-rust        [██████████████████████████████████] 95%
-postgresql  [█████████████████████████████████]  90%
-docker      [████████████████████████████████]   85%
-git         [██████████████████████████████████] 100%
-windows 11  [██████████████████████████████████] 100%
-powershell  [████████████████████████████]       80%
+⏣ projects
+  phoenix     ████████████████████████  90%
+  wiki        ███████████████████████   85%
+  server      ██████████████████████    80%
 
+────
 
-PROJECTS
-------------------------------------------------------------------------------
-project_phoenix_rust  [████████████████████████] 90%
-wiki_search           [███████████████████████]  85%
-basic_web_server      [██████████████████████]   80%
+⏣ stats
+  commits  196
+  streak   16
+  longest  16
+  memory   100%
+  panics   0
 
+────
 
-STATS
-------------------------------------------------------------------------------
-commits   196
-streak    16
-longest   16
-memory    100%
-panics    0
+⏣ philosophy
+  servers are 100 small logics
+  consistency > intensity
+  fear 100% test coverage
+  i am the borrow checker
+  silence is the loudest
 
+────
 
-PHILOSOPHY
-------------------------------------------------------------------------------
-large servers are just 100 small logics combined
-consistency beats intensity
-fear the one who writes 100% test coverage
-i am the borrow checker
+⏣ community
+  deep work · rust arch · zero panic · 4am club
+  196 commits · crash-proof · memory 100%
+  linkedin · email · github
+
+────
+
+⏣ words
+  not a great programmer
+  good with habits
+  — beck
+
+  c++ fears borrow checker
+  i am borrow checker
+
+  discipline is choosing
+  what you want now
+  vs what you want most
+
+────
+
+◈ project phoenix ◈
+100% memory safe · 0% panics · crash-proof
+
 silence is the loudest sound
-
-
-COMMUNITY
-------------------------------------------------------------------------------
-philosophy    deep work  rust arch  zero panic  4am club
-milestones    196 commits  crash-proof  memory 100%  zero panics
-connect       linkedin  email  github
-
-
-QUOTES
-------------------------------------------------------------------------------
-i'm not a great programmer
-i'm a good programmer with great habits
-— kent beck
-
-c++ programmers fear the borrow checker
-i am the borrow checker
-
-discipline is choosing between
-what you want now and what you want most
-
-
-PROJECT PHOENIX
-100% MEMORY SAFE
-0% PANICS
-CRASH-PROOF
-
-"silence is the loudest sound"
