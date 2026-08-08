@@ -200,6 +200,34 @@
 <br>
 
 <!-- ============================================================ -->
+<!--                     PROFILE STATS                             -->
+<!-- ============================================================ -->
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║                     PROFILE STATS                                ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashish-khattry&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Rust%20Backend-orange?style=flat" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined%20GitHub-6%20months%20ago-blue?style=flat" alt="Joined" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-2-green?style=flat" alt="Repos" />
+</p>
+
+<br>
+
+<!-- ============================================================ -->
 <!--                       PHILOSOPHY                              -->
 <!-- ============================================================ -->
 
