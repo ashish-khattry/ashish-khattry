@@ -1,357 +1,251 @@
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗                 ║
-║   ██╔══██╗██║  ██║██╔═══██╗██╔════╝████╗  ██║██║╚██╗██╔╝                 ║
-║   ██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║██║ ╚███╔╝                  ║
-║   ██╔═══╝ ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗                  ║
-║   ██║     ██║  ██║╚██████╔╝███████╗██║ ╚████║██║██╔╝ ██╗                 ║
-║   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                 ║
-║                                                                          ║
-║  PROJECT PHOENIX - DOOMSDAY EDITION                                      ║
-║  AUTHOR: ASHISH KHATTTRY                                                 ║
-║  STATUS: ████████████ 100% MEMORY SAFE                                   ║
-║  OS: WINDOWS 11 PRO (x86_64-pc-windows-msvc)                             ║
-║  WAR CRY: I AM THE BORROW CHECKER                                        ║
-╚══════════════════════════════════════════════════════════════════════════╝
--->
+<!-- ======================================================================== -->
+<!--  ☢️ PROJECT PHOENIX - THE BORROW CHECKER EDITION v6.0                    -->
+<!--  ☢️ WORLD'S MOST ADVANCED GITHUB PROFILE README ENGINE                   -->
+<!--  ☢️ AUTHOR: ASHISH KHATTTRY                                              -->
+<!--  ☢️ STATUS: 100% MEMORY SAFE | ZERO PANICS | IRON DISCIPLINE             -->
+<!--  ☢️ TOTAL SECTIONS: 25 | TOTAL TECHNOLOGIES: 20+                         -->
+<!-- ======================================================================== -->
 
-<!-- ================================================================ -->
-<!-- MARK 0: TERMINAL ASCII ART                                       -->
-<!-- ================================================================ -->
-<pre align="center">
-  ___   _____ _    _ _____  _____ _    _ 
- / _ \ / ____| |  | |_   _|/ ____| |  | |
-/ /_\ \\___ \| |__| | | | | (___ | |__| |
-|  _  |    ) |  __  | | |  \___ \|  __  |
-| | | |___/ /| |  | |_| |_ ____) | |  | |
-\_| |_/____/ |_|  |_|_____|_____/|_|  |_|
-</pre>
-
-<h1 align="center">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</h1>
-
-<!-- ================================================================ -->
-<!-- MARK 1: BOOT SEQUENCE (STATIC TEXT, NO ANIMATION)                -->
-<!-- ================================================================ -->
-<pre align="center">
-<code>
-BOOT SEQUENCE INITIATED...
-
-╔═══════════════════════════════════════════════════════════════════╗
-║  OS Detected   : Windows 11 Pro (x86_64-pc-windows-msvc)          ║
-║  Rustc Version : 1.80.0 (051478957 2024-07-21)                    ║
-║  User          : ashish-khattry                                   ║
-║  Role          : Rust Backend Architect                           ║
-║  Memory Safety : 100%                                             ║
-║  Panic Tolerance: 0% (Zero Panics Tolerated)                      ║
-║  War Cry       : I AM THE BORROW CHECKER                          ║
-╚═══════════════════════════════════════════════════════════════════╝
-
-✅ Boot Sequence Complete.
-🚀 Ready for Production Deployment.
-</code>
-</pre>
-
-<!-- ================================================================ -->
-<!-- MARK 2: NUCLEAR BADGES                                           -->
-<!-- ================================================================ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Rustc-1.80+-orange?logo=rust&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Memory_Safety-100%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Panics-0_Tolerated-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unsafe_Code-Forbidden-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/ashish-khattry/project_phoenix_rust?style=for-the-badge&logo=github&label=Last%20Commit&color=FF5722" />
-  <img src="https://img.shields.io/badge/Status-Project_Phoenix_Active-FF5722?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Discipline-Iron-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code_Quality-A%2B-00FF00?style=for-the-badge" />
-</p>
-
-<!-- ================================================================ -->
-<!-- MARK 3: MAIN HEADLINE (STATIC)                                   -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="6" color="#F74C00">⚡ ASHISH KHATTTRY | RUST ARCHITECT ⚡</font></b><br>
-  <b><font size="4" color="#00FF00">Building Memory-Safe Systems | Zero Panics | 100% Crash-Proof</font></b><br>
-  <b><font size="4" color="#FFA500">Executing Project Phoenix | I AM THE BORROW CHECKER</font></b>
-</p>
-
-<!-- ================================================================ -->
-<!-- MARK 4: TWO COLUMN (WHO AM I + CODE BLOCK)                       -->
-<!-- ================================================================ -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: 2px solid #FF5722; padding: 15px;">
-      <h3 align="center">💀 Who am I?</h3>
-      <br>
-      <blockquote>
-        "Architecting systems through Pure Logic, Memory Safety, and Iron Discipline."
-      </blockquote>
-      <p>I am a <b>Rust Backend Developer</b>. My focus is exclusively on building highly concurrent, <b>zero-panic</b> architectures for Web3, Cloud, and scalable Start-ups.</p>
-      <p><b>Foundation:</b> C, C++, Java.</p>
-      <p><b>Goal:</b> Building 100% Crash-Proof Enterprise Servers.</p>
-      <p><b>War Cry:</b> If it compiles, it ships. If it panics, I rewrite it.<br>
-      <b>Truth:</b> C++ programmers fear the borrow checker. <i>I am the borrow checker.</i></p>
-      <br>
-      <p><b>⚡ Daily Discipline (4:00 AM Club):</b></p>
-      <ul>
-        <li>🔴 4:00 AM - Wake & Review Code</li>
-        <li>🟠 5:00 AM - Deep Work (Rust)</li>
-        <li>🟢 8:00 AM - Commit & Push</li>
-        <li>🔵 9:00 PM - Learn & Document</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: 2px solid #FF5722; padding: 15px;">
-      <h3 align="center">⚙️ system_boot.rs</h3>
-<pre lang="rust"><code>
-#![forbid(unsafe_code)] // No exceptions. Ever.
-
-fn main() {
-    let ashish = Developer {
-        role: "Rust Backend Architect",
-        core_weapon: "Rust 🦀",
-        operating_status: "Strict Engineering Discipline",
-        error_handling: "Zero Panics Tolerated",
-        war_cry: "I AM THE BORROW CHECKER",
-        discipline: "Iron",
-        machine_mode: true,
-    };
-    
-    // unwrap() is for the weak. We use expect() with style.
-    ashish.deploy_to_production()
-        .expect("Deployment failed. Initiating rollback.");
-}
-</code></pre>
-    </td>
-  </tr>
-</table>
-
-<!-- ================================================================ -->
-<!-- MARK 5: CURRENTLY BUILDING & LEARNING (TWO COLUMN CARDS)         -->
-<!-- ================================================================ -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: 2px solid #00BFFF; padding: 15px;">
-      <h4 align="center">🏗️ Currently Building (Phase 03)</h4>
-      <ul>
-        <li><b>CLI Search Tool:</b> Low-level OS file searching (No dependencies, pure std).</li>
-        <li><b>Axum Web Server:</b> URL Shortener with PostgreSQL (High concurrency).</li>
-        <li><b>Network Chat Server:</b> Concurrent system using Tokio & strict Borrowing.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: 2px solid #00BFFF; padding: 15px;">
-      <h4 align="center">🌱 Deep Learning Focus</h4>
-      <ul>
-        <li>Advanced Rust Traits & Generic Associated Types (GATs)</li>
-        <li>Complex Lifetime Annotations (Variance, Subtyping)</li>
-        <li>SQLx & Database APIs (Compile-time checked queries)</li>
-        <li>Web3 Core Infrastructure (Alloy/ethers-rs)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- ================================================================ -->
-<!-- MARK 6: TECH STACK (STATIC ICONS)                                -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="5" color="#00FF00">💻 TECHNICAL ARSENAL</font></b><br><br>
-  <b><font size="4" color="#FFA500">🔫 Core Weapons</font></b><br>
-  <img src="https://skillicons.dev/icons?i=rust,postgres&theme=dark" /><br><br>
-  <b><font size="4" color="#00BFFF">⚙️ Infrastructure & OS (Windows 11 Pro)</font></b><br>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode&theme=dark" />
-</p>
-
-<!-- ================================================================ -->
-<!-- MARK 7: WAR ROOM DASHBOARD (BORDERED TABLE)                      -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="5" color="#F74C00">🎯 MISSION CONTROL DASHBOARD</font></b>
-</p>
-
-<table width="100%" style="border: 2px solid #FF5722;">
-  <tr>
-    <td width="25%" align="center" style="border: 1px solid #FF5722; padding: 15px; background-color: rgba(255,87,34,0.1);">
-      <b>🛡️ Memory Safety</b><br>
-      ██████████████████ 100%
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #FF5722; padding: 15px; background-color: rgba(255,0,0,0.1);">
-      <b>🚫 Panic Tolerance</b><br>
-      ❌ 0.000% Allowed
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #FF5722; padding: 15px; background-color: rgba(255,165,0,0.1);">
-      <b>🧪 Test Coverage</b><br>
-      ██████████░░░░░░ 75% (Target: 100)
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #FF5722; padding: 15px; background-color: rgba(0,255,0,0.1);">
-      <b>🚀 Production Ready</b><br>
-      🟢 Green / ✅ Go
-    </td>
-  </tr>
-</table>
-
-<!-- ================================================================ -->
-<!-- MARK 8: PROJECT PIPELINE (CLICKABLE TABLE)                       -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="5" color="#00FF00">📂 PROJECT PHOENIX PIPELINE</font></b>
-</p>
-
-<table width="100%">
-  <thead>
-    <tr style="background-color: #333; color: white;">
-      <th>📦 Project Name</th>
-      <th>⚙️ Tech</th>
-      <th>📝 Description & Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/ashish-khattry/project_phoenix_rust">project_phoenix_rust</a></b></td>
-      <td>Rust 🦀</td>
-      <td>Master repository for the Official Rust Book. 100% memory-safe binary projects using exhaustive match flows.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/wiki_search">wiki_search</a></b> <i>(Active)</i></td>
-      <td>Rust 🦀</td>
-      <td>High-speed custom file searching interacting directly with the OS. Handled via Result and Option.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ashish-khattry/project_phoenix_rust/tree/main/phase_02_advanced_rust_and_backend_basics/basic_web_server">basic_web_server</a></b> <i>(Active)</i></td>
-      <td>Rust 🦀</td>
-      <td>Highly concurrent server handling multiple users via strict Ownership & Borrowing mechanics.</td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- ================================================================ -->
-<!-- MARK 9: GITHUB STATS DASHBOARD                                   -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="5" color="#00BFFF">📊 GITHUB METRICS & STATS</font></b>
-</p>
+<!-- ======================================================================== -->
+<!--  🌌 SECTION 1: QUANTUM WAVE HEADER (MULTICOLOR - DARK & VIBRANT)         -->
+<!-- ======================================================================== -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-khattry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khattry&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:00BFFF&height=150&section=header&text=ASHISH%20KHATTTRY&fontSize=50&fontAlignY=35&fontColor=FFFFFF&desc=RUST%20BACKEND%20ARCHITECT&descAlignY=60&descSize=20&descColor=FFFFFF&cache_bypass=99" />
 </p>
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-khattry&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=40&lines=INITIALIZING+CODE...;100%25+MEMORY+SAFE+ENVIRONMENT;ZERO+PANICS+TOLERATED;I+AM+THE+BORROW+CHECKER;" alt="Live Typing Terminal" />
 </p>
-
+ 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="Activity Graph" />
+ <b><code>memory-safe</code></b> ·
+<b><code>zero-panic</code></b> · <b><code>crash-proof</code></b>
 </p>
-
-<!-- ================================================================ -->
-<!-- MARK 10: PHILOSOPHY / WAR CRIES                                  -->
-<!-- ================================================================ -->
+ 
+<p align="center">
+  <b><i>"I don't talk much. I let the code speak for itself."</i></b>
+</p>
+ 
 <br>
-<p align="center">
-  <b><font size="4" color="#00FF00">"Large servers are just 100 small logics combined."</font></b><br>
-  <b><font size="4" color="#00FF00">"Consistency beats intensity."</font></b><br>
-  <b><font size="4" color="#00FF00">"Fear the person who has the discipline to write 100% test coverage."</font></b><br>
-  <b><font size="5" color="#FF5722">"I AM THE BORROW CHECKER."</font></b><br>
-  <b><font size="4" color="#00FF00">"Discipline is the bridge between goals and accomplishment."</font></b>
-</p>
-
-<!-- ================================================================ -->
-<!-- MARK 11: THE DISCIPLINE MATRIX (SNAKE ANIMATION)                 -->
-<!-- ================================================================ -->
-<h3 align="center">🐍 The Green Graph of Discipline</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Discipline Graph" />
-</p>
-
-<!-- ================================================================ -->
-<!-- MARK 12: CONTENT & COMMUNITY (3-COLUMN LAYOUT)                   -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="5" color="#FFA500">🌐 CONTENT & COMMUNITY</font></b>
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top" style="border: 2px solid #FF5722; padding: 15px;">
-      <b>🔥 Core Philosophy</b><br><br>
-      💻 Deep Work State<br>
-      🦀 Rust Core Architecture<br>
-      ⚙️ Zero Panic Engineering<br>
-      ❌ `unwrap()` is a War Crime<br>
-      🧠 I AM THE BORROW CHECKER<br>
-      📖 "Discipline Over Motivation"<br>
-      ⏰ 4:00 AM Club
-    </td>
-    <td width="33%" align="center" valign="top" style="border: 2px solid #00BFFF; padding: 15px;">
-      <b>🚀 Milestones & Stats</b><br><br>
-      🏆 Advanced System Design<br>
-      📈 100+ Commits (Aug 2026)<br>
-      🧠 100% Crash-Proof Code<br>
-      ✅ 100% Test Coverage (Target)<br>
-      🛡️ Memory Safety: 100%<br>
-      🚫 Zero Panics Tolerated<br>
-      🎯 100% Focus on Rust
-    </td>
-   <td width="33%" align="center" valign="top" style="border: 2px solid #00FF00; padding: 15px;">
-      <b>🔗 Connect & Collaborate</b><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
-      <a href="mailto:ashishkhattry7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br><br>
-      <a href="https://github.com/ashish-khattry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    </td>
-  </tr>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #00BFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+SYSTEM_STATUS%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=pub+struct+SystemStatus+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++os:+%26%27static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++rustc:+%26%27static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++user:+%26%27static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++panics_tolerated:+u8," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=let+status+=+SystemStatus+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++os:+%22Windows+11+Pro%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++rustc:+%221.80.0%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++user:+%22ashish-khattry%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++panics_tolerated:+0," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=%7D;" />
+  </p>
+</td>
+</tr>
 </table>
-
-<!-- ================================================================ -->
-<!-- MARK 13: THE KILLER QUOTE CARD (STATIC)                          -->
-<!-- ================================================================ -->
+ 
 <br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #FFFFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=00BFFF&center=true&width=950&height=35&lines=%5BTHE+ARCHITECT%5D+-+CODING+STATE+v1.0" alt="Architect" /></h3>
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+WHO+AM+I%3F+-+WAKING+UP+IN+THE+CODE" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=%23!%5Bforbid(unsafe_code)%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=%23!%5Bdeny(clippy::unwrap_used)%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=%23!%5Bdeny(clippy::expect_used)%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=use+std::fmt;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=struct+Developer+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++role:+%26'static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++foundation:+%5B%26'static+str;+3%5D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++focus:+%5B%26'static+str;+3%5D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++goal:+%26'static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++motto:+%26'static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++discipline:+%26'static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++quantum_state:+%26'static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=impl+fmt::Display+for+Developer+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++fn+fmt(%26self,+f:+%26mut+fmt::Formatter%3C'_%3E)+-%3E+fmt::Result+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++write!(" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++++++++++f," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++++++++++%22Role:+%7B%7D,+Foundation:+%7B%7D+-+%7B%7D+-+%7B%7D,+Focus:+%7B%7D+-+%7B%7D+-+%7B%7D%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++++++++++%22Goal:+%7B%7D,+Motto:+%7B%7D,+Discipline:+%7B%7D,+State:+%7B%7D%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++++++self.role," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++++++self.foundation%5B0%5D,+self.foundation%5B1%5D,+self.foundation%5B2%5D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++++++++++self.focus%5B0%5D,+self.focus%5B1%5D,+self.focus%5B2%5D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++++++++++self.goal," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++++++++++self.motto," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++++++self.discipline," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++++++self.quantum_state" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++++++)" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=fn+main()+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++let+ashish+=+Developer+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++++++role:+%22Rust+Backend+Architect%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++++++foundation:+%5B%22C%22,+%22C++%22,+%22Java%22%5D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++++++focus:+%5B%22Rust%22,+%22Web3%22,+%22Cloud%22%5D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++goal:+%22100%25+Crash-Proof+Enterprise+Systems%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++motto:+%22I+AM+THE+BORROW+CHECKER%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++++++discipline:+%22IRON%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++++++quantum_state:+%22STABLE+AND+SECURE%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++%7D;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++println!(%22%7B%7D%22,+ashish);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=%7D" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #0000FF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+DAILY_RHYTHM%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=impl+Routine+for+Architect+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++fn+execute_daily_loop(%26self)+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++++++cron_job%21(%2204:00%22,+%22Review+Code%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++++++cron_job%21(%2205:00%22,+%22Deep+Work+(Rust)%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++cron_job%21(%2208:00%22,+%22Commit+%26+Push%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++++++cron_job%21(%2221:00%22,+%22Learn+%26+Document%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=%7D" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #87CEEB; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+ACTIVE_PROJECTS%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=enum+Projects+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++CliSearchTool+%7B+specs:+%22Low-level+OS+file+searching%22+%7D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++AxumWebServer+%7B+stack:+%22PostgreSQL+%2B+Tokio%22+%7D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++NetworkChatServer+%7B+rule:+%22Strict+Ownership%22+%7D," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=%7D" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #FFFFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+ARSENAL%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=let+mut+arsenal+=+HashMap::new();" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=arsenal.insert(%22Rust%22,+95);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=arsenal.insert(%22PostgreSQL%22,+90);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=arsenal.insert(%22Docker%22,+85);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=arsenal.insert(%22Git%22,+100);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=arsenal.insert(%22Windows_11%22,+100);" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #00BFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+PROJECT_PIPELINE%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=struct+Pipeline+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++project_phoenix_rust:+%26%27static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++wiki_search:+%26%27static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++basic_web_server:+%26%27static+str," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=let+status+=+Pipeline+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++project_phoenix_rust:+%2290%25%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++wiki_search:+%2285%25%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++basic_web_server:+%2280%25%22," /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=%7D;" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #00BFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+DASHBOARD_METRICS%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=const+COMMITS:+u32+=+196;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=const+STREAK_DAYS:+u32+=+16;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=assert_eq%21(MEMORY_SAFETY,+%22100%25%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=assert_eq%21(PANICS,+0);" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<br>
+ 
 <p align="center">
-  <b><font size="5" color="#FF5722">"I'm not a great programmer. I'm just a good programmer with great habits."</font></b><br>
-  <b><font size="4" color="#FFA500">- Kent Beck</font></b>
+  <img src="https://komarev.com/ghpvc/?username=ashish-khattry&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge&logo=coding" alt="Views" />
 </p>
-
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #FFFFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+SYSTEM_INTEGRITY%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=fn+verify_system()+-%3E+Result%3C(),+Panic%3E+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++check_core_stack(%22RUST_SYSTEMS%22)%3F;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=++++verify_memory(%22100%25_VERIFIED%22)%3F;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=++++enforce_panic_tolerance(0)%3F;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++Ok(PROJECT_PHOENIX_ACTIVE)" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=++++%7D" />
+  </p>
+</td>
+</tr>
+</table>
+ 
 <p align="center">
-  <b><font size="5" color="#F74C00">"C++ programmers fear the borrow checker. I AM THE BORROW CHECKER."</font></b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&bg_color=000000&color=FFFFFF&line=00BFFF&point=87CEEB&hide_border=true&area=true" width="85%" alt="Activity Graph" />
 </p>
-
+ 
+<br>
+ 
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="100%" valign="top" style="border: 2px solid #FFFFFF; border-radius: 12px; padding: 20px; background: #000000;">
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=//+%5BMODULE:+PHILOSOPHY%5D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=0000FF&width=950&height=26&lines=macro_rules%21+mindset+%7B" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=++++($quote:expr)+=%3E+%7B+println%21(%22%7B%7D%22,+$quote)+%7D;" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=00BFFF&width=950&height=26&lines=%7D" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEFA&width=950&height=26&lines=mindset%21(%22large+servers+are+just+100+small+logics+combined.%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=mindset%21(%22consistency+beats+intensity.%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=FFFFFF&width=950&height=26&lines=mindset%21(%22I+AM+THE+BORROW+CHECKER.%22);" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&pause=1000&color=87CEEB&width=950&height=26&lines=mindset%21(%22silence+is+the+loudest+sound+in+the+codebase.%22);" />
+  </p>
+</td>
+</tr>
+</table>
+ 
+<!-- ======================================================================== -->
+<!--  🌌 SECTION: QUANTUM WAVE FOOTER (MULTICOLOR - DARK & VIBRANT)          -->
+<!-- ======================================================================== -->
 <p align="center">
-  <b><font size="4" color="#00FF00">"Discipline is choosing between what you want now and what you want most."</font></b>
-</p>
-
-<!-- ================================================================ -->
-<!-- MARK 14: FOOTER - SECURE BOOT COMPLETE                           -->
-<!-- ================================================================ -->
-<p align="center">
-  <b><font size="4" color="#00FF00">🛡️ PROJECT PHOENIX | BOOT SEQUENCE COMPLETE</font></b><br>
-  <b><font size="4" color="#00FF00">✅ 100% MEMORY SAFE | 0% PANICS</font></b><br>
-  <b><font size="4" color="#F74C00">🚀 READY FOR PRODUCTION DEPLOYMENT</font></b>
-</p>
-
-<!-- ================================================================ -->
-<!-- BONUS: ASCII SKULL (BECAUSE WHY NOT?)                            -->
-<!-- ================================================================ -->
-<pre align="center">
-     .-.
-    (o.o)
-     |=|
-    __|__
-  //.=|=.\\
- // .=|=. \\
- \\ .=|=. //
-  \\(_=_)//
-   (:| |:)
-    || ||
-    () ()
-    || ||
-   _() ()_
-  / /(( ))\ \
- / / \`_/  \ \
-/ /         \ \
-/ /           \ \
-`-'           `-'
-</pre>
-
-<p align="center">
-  <b><font size="3" color="#FF5722">☠️ DISCIPLINE OVER MOTIVATION ☠️</font></b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:00BFFF&height=150&section=footer&text=☢️%20BORROW%20CHECKER%20%7C%20ZERO%20PANICS%20%7C%20IRON%20DISCIPLINE&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=twinkling&cache_bypass=99" />
 </p>
