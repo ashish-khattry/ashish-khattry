@@ -223,6 +223,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-khattry&bg_color=000000&color=FFFFFF&line=00BFFF&point=87CEEB&hide_border=true&area=true" width="85%" alt="Activity Graph" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashish-khattry/ashish-khattry/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
  
 <br>
  
