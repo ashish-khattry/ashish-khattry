@@ -2,7 +2,7 @@
 <!--  ⚡ ASHISH KHATTTRY | RUST BACKEND ARCHITECT                              -->
 <!-- ======================================================================== -->
 
-# 🦀 Ashish Khattry
+#  Ashish Khattry
 ### Rust Backend Architect
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 💀 Who Am I?
+## 🦀 Who Am I?
 
 Rust Backend Developer focused on building **memory-safe, highly concurrent** systems for Web3, Cloud, and scalable startups.
 
